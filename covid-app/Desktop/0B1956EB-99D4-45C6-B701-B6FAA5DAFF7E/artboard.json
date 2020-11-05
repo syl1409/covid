@@ -64,19 +64,7 @@
     },
     {
       "class": "group",
-      "id": "503C1542-D153-4226-A2BF-7D5C4589B759"
-    },
-    {
-      "class": "group",
-      "id": "18AB4B5E-2322-4170-8503-870C61FB95BD"
-    },
-    {
-      "class": "group",
       "id": "7BB9523D-604E-42E5-A8C4-C5074FE6DC8E"
-    },
-    {
-      "class": "group",
-      "id": "033F490D-C162-42F4-83D6-5F13F091934B"
     },
     {
       "class": "text",
@@ -85,6 +73,14 @@
     {
       "class": "symbolInstance",
       "id": "71604A3A-BCFC-46B7-B7C9-A5A3398968EF"
+    },
+    {
+      "class": "rectangle",
+      "id": "B73B8CB1-9101-4BC7-B62C-FEE63BC1BB35"
+    },
+    {
+      "class": "group",
+      "id": "C2ED87A4-C4D7-4A5B-BF04-D06EEE93F668"
     }
   ],
   "name": "Login",

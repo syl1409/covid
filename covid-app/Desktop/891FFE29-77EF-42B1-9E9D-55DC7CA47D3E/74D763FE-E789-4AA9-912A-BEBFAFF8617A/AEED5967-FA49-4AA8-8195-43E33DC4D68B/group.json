@@ -1,0 +1,140 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AEED5967-FA49-4AA8-8195-43E33DC4D68B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 36,
+    "x": 422,
+    "y": 17
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0740F98F-DE37-4DFC-817F-F2B339C35A3A"
+    },
+    {
+      "class": "shapePath",
+      "id": "01EBDB32-9772-4C99-83A9-7DD7D4CE90A8"
+    },
+    {
+      "class": "shapePath",
+      "id": "7E392F3E-2E30-478E-AD5C-3A413943D13C"
+    },
+    {
+      "class": "shapePath",
+      "id": "07D6485D-42CB-4D23-813D-818D8430D6EE"
+    },
+    {
+      "class": "rectangle",
+      "id": "9A9A23A4-551B-462E-B4BB-70F3E6A4F255"
+    },
+    {
+      "class": "rectangle",
+      "id": "3B2540C4-F7CA-4BFC-B41F-A29113F9B087"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F004AAAD-FD8E-4688-A4F2-C3B351A46ADF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F888B617-17BC-4575-B393-A64FB5372E2D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0B9F0439-C7AA-4EFB-8628-566542C16FB5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7DEEB279-E15C-4805-9A1A-760728F182E6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "73C34F56-E67F-4BB5-BEAD-93790BE58A0B"
+    },
+    {
+      "class": "shapePath",
+      "id": "43D101D5-6714-4B24-98CA-4BC48EF8F3AC"
+    },
+    {
+      "class": "shapePath",
+      "id": "188CE66A-8B1B-46BF-B996-C5F8F6C6D30B"
+    }
+  ],
+  "name": "moto",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.00000011920929,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "52B08EC1-B596-49E4-846F-578AB56283CE",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
