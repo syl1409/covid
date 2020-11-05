@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,24 +50,48 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "8F59394E-A0E3-4CDB-95A8-87286794416C"
-    },
-    {
-      "class": "text",
-      "id": "1037D04B-B2C6-47B5-8D69-E634C3C24F62"
-    },
-    {
       "class": "symbolInstance",
       "id": "A4CF5CE7-840C-4DA8-8403-63EC80B684E0"
     },
     {
       "class": "text",
-      "id": "47A82E17-CAF4-4AAA-86B5-129FB76EA230"
+      "id": "82C939FD-29AE-4032-AF28-6A84D24B7782"
+    },
+    {
+      "class": "text",
+      "id": "B431D395-E7A2-42A0-84FA-75F306CD8990"
+    },
+    {
+      "class": "rectangle",
+      "id": "1447194A-3FAB-4776-BBB0-A6B771C59DEA"
+    },
+    {
+      "class": "rectangle",
+      "id": "02698A9C-87CE-47A0-B226-D41F7743B423"
+    },
+    {
+      "class": "text",
+      "id": "0696954B-0863-4F8B-BA50-479F9CA35917"
+    },
+    {
+      "class": "text",
+      "id": "A444CCFE-22F0-44ED-B0BB-8D8C2D021886"
+    },
+    {
+      "class": "rectangle",
+      "id": "424A56E7-A79F-4839-9ABB-1ED02AE112EC"
+    },
+    {
+      "class": "text",
+      "id": "53B707B1-4A2B-4A1D-BC4C-C8DA7D6628D1"
     },
     {
       "class": "group",
-      "id": "01C8F064-0D49-4B7C-8D67-CC39A39958F3"
+      "id": "E22BEB64-0D42-40E4-9D33-4A1387E30BAA"
+    },
+    {
+      "class": "text",
+      "id": "1A5262A7-E704-45B7-B839-D33C9B2BD3FD"
     }
   ],
   "name": "lion-login",

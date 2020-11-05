@@ -16,9 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 65,
-    "width": 363,
-    "x": 539,
-    "y": 623
+    "width": 415,
+    "x": 730,
+    "y": 446
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,15 +30,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "text",
+      "id": "1A7649B1-2FB2-43C3-B11F-C58CC081E190"
+    },
     {
       "class": "rectangle",
       "id": "4DA7B931-CFD2-4ED7-8500-CE03E4C96F9A"
     },
     {
-      "class": "text",
-      "id": "1A7649B1-2FB2-43C3-B11F-C58CC081E190"
+      "class": "group",
+      "id": "037DF4A2-0169-4F17-B02C-D0A4385E08F8"
     }
   ],
   "name": "User field",

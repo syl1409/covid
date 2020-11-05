@@ -59,6 +59,10 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "97135391-0065-40ED-B9C5-4CD060F063A1"
+    },
+    {
       "class": "group",
       "id": "A878286B-1EA3-4045-B2CC-D9A443F0FE9C"
     },
@@ -71,16 +75,16 @@
       "id": "90CCDF5B-1E4E-4D62-8D03-E68291A1DD9E"
     },
     {
-      "class": "rectangle",
-      "id": "FE590B36-2EDE-4236-8A98-A4EE84EA85B0"
-    },
-    {
       "class": "text",
       "id": "88524428-6107-42F0-A063-04A4445B7747"
     },
     {
-      "class": "text",
-      "id": "53CC7958-07E0-4A36-B60A-FA8A284AEDF8"
+      "class": "group",
+      "id": "409319FF-F388-4987-A7CA-B74234E23E93"
+    },
+    {
+      "class": "group",
+      "id": "64BBAD29-EF9A-4D03-820E-E698DE7E1C92"
     },
     {
       "class": "text",
@@ -89,87 +93,8 @@
     {
       "class": "symbolInstance",
       "id": "902A582A-1195-4C9E-8041-E97645E10F99"
-    },
-    {
-      "class": "rectangle",
-      "id": "D5AE8432-9651-43A0-8312-D2D0B786F730"
-    },
-    {
-      "class": "group",
-      "id": "11F16C4F-BF2F-4DCF-A3B6-C71FA68DCA8A"
-    },
-    {
-      "class": "group",
-      "id": "409319FF-F388-4987-A7CA-B74234E23E93"
-    },
-    {
-      "class": "rectangle",
-      "id": "592396F1-41FD-4E35-A92F-5FD2A89BAC3B"
-    },
-    {
-      "class": "rectangle",
-      "id": "D05F4D35-85E6-46FD-B274-304D1A35CAD5"
-    },
-    {
-      "class": "group",
-      "id": "8DDE0C9F-9B88-42CC-BE6C-900077D5DC12"
-    },
-    {
-      "class": "group",
-      "id": "EA7646E9-5ACD-46F8-819B-9A7C003BD567"
-    },
-    {
-      "class": "rectangle",
-      "id": "928BA999-E72D-4815-A04F-6A4C60436D7B"
-    },
-    {
-      "class": "rectangle",
-      "id": "86CFF601-8561-4FFB-9E0F-DD8B84B37D6F"
-    },
-    {
-      "class": "group",
-      "id": "331BBFB9-1FEE-4CCC-B669-3573F1EF8537"
-    },
-    {
-      "class": "text",
-      "id": "E4FACCB8-E6AD-45E2-8BA0-2619E5C5199F"
-    },
-    {
-      "class": "text",
-      "id": "11F00DD9-F1B7-44B0-9B77-4B3CCC88409B"
-    },
-    {
-      "class": "text",
-      "id": "8361A35E-783A-4423-9C39-121470228907"
-    },
-    {
-      "class": "text",
-      "id": "7692011F-F875-4F7B-8BD0-C206242AB260"
-    },
-    {
-      "class": "group",
-      "id": "D02FB155-6EAA-4272-8AD1-875DFB6C67C9"
-    },
-    {
-      "class": "group",
-      "id": "9691C33E-589F-48F0-BAC4-F2141CCFF654"
     }
   ],
-  "layout": {
-    "_class": "layoutGrid",
-    "columnWidth": 75.75,
-    "drawHorizontal": false,
-    "drawHorizontalLines": false,
-    "drawVertical": true,
-    "gutterHeight": 12,
-    "gutterWidth": 20,
-    "guttersOutside": true,
-    "horizontalOffset": 145.5,
-    "isEnabled": true,
-    "numberOfColumns": 12,
-    "rowHeightMultiplication": 5,
-    "totalWidth": 1149
-  },
   "name": "Motivation",
   "nameIsFixed": true,
   "presetDictionary": {
@@ -179,7 +104,7 @@
     "offersLandscapeVariant": 0,
     "width": 1440
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -234,7 +159,6 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      482
     ]
   }
 }
