@@ -94,10 +94,6 @@
       "id": "75890D1C-DCC5-4B64-A51D-F131FED9220D"
     },
     {
-      "class": "text",
-      "id": "26ACA631-1803-491B-83B8-762E3853FC66"
-    },
-    {
       "class": "shapePath",
       "id": "6DF63EF3-E8FB-4D56-86FA-7FACF37E0885"
     },
@@ -140,6 +136,30 @@
     {
       "class": "group",
       "id": "BD13CFE6-AB30-41BB-BCB8-8CCA8D9A484F"
+    },
+    {
+      "class": "group",
+      "id": "B3D4DF16-D21F-44C9-88C5-F6158C731139"
+    },
+    {
+      "class": "rectangle",
+      "id": "4330B321-D71C-4A3D-A4CE-E2897FD302E3"
+    },
+    {
+      "class": "text",
+      "id": "192D6A2C-F1BB-4B0A-8EE6-F647C03F4E46"
+    },
+    {
+      "class": "shapePath",
+      "id": "8C43F269-1FDA-4C01-92AF-A14437D28555"
+    },
+    {
+      "class": "shapePath",
+      "id": "D522FC38-6197-4DF4-8B31-EDDC4064A381"
+    },
+    {
+      "class": "shapePath",
+      "id": "D80680CC-5D41-43A0-9B92-0F0DCF3EAB46"
     }
   ],
   "name": "transportation-2-parking copy",

@@ -18,7 +18,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 676,
-    "width": 323,
+    "width": 375,
     "x": 0,
     "y": 90
   },
@@ -147,7 +147,7 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 0,
         "thickness": 1
       }
@@ -163,7 +163,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 1
+      "opacity": 0.8924618675595238
     },
     "do_objectID": "D808FADA-3445-4D3C-8EDF-F024066A0E46",
     "endMarkerType": 0,
@@ -173,9 +173,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

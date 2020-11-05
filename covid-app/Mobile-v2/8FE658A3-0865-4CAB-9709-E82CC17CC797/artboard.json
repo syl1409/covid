@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1017,
+    "height": 1057,
     "width": 375,
     "x": 725,
     "y": 503
@@ -339,11 +339,35 @@
     },
     {
       "class": "text",
-      "id": "66CD8F19-4E21-416C-90B3-7D9AAB6C100C"
+      "id": "9ECFE8A2-8330-438A-BDCD-922E86D30757"
+    },
+    {
+      "class": "group",
+      "id": "8D270F1B-EF6A-41B1-A6A0-9BDB55FF2D80"
+    },
+    {
+      "class": "rectangle",
+      "id": "6F2FB875-0896-4BB0-B7DD-2937ACC4F249"
     },
     {
       "class": "text",
-      "id": "9ECFE8A2-8330-438A-BDCD-922E86D30757"
+      "id": "E2187FE7-23ED-451C-9B4A-368EBB05199B"
+    },
+    {
+      "class": "shapePath",
+      "id": "66C80928-F314-46A1-BF35-3F4979630745"
+    },
+    {
+      "class": "shapePath",
+      "id": "3950ADE8-7514-4998-BFBF-AD1BF3BADC33"
+    },
+    {
+      "class": "shapePath",
+      "id": "64648AB3-E671-49E7-9A6F-9D6A05A64865"
+    },
+    {
+      "class": "text",
+      "id": "54E30A14-96A0-4B64-A2A0-0697C80144A2"
     }
   ],
   "name": "Date",

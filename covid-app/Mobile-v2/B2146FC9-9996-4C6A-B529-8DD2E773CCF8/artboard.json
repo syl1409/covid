@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -158,11 +158,31 @@
       "id": "E612EEB8-3734-4391-8D09-A81724C29365"
     },
     {
+      "class": "group",
+      "id": "BB06CAB8-5E32-4632-B7CD-67EF17369709"
+    },
+    {
+      "class": "rectangle",
+      "id": "2BA5710E-0543-4E5C-9BA1-002B32BC7488"
+    },
+    {
       "class": "text",
-      "id": "BB33F049-9DF8-4456-8054-8291582522C3"
+      "id": "46ECB78F-8320-4541-93CD-AB96C5C648AE"
+    },
+    {
+      "class": "shapePath",
+      "id": "1C8A7E07-43A4-4101-ACCD-9A144A118DD1"
+    },
+    {
+      "class": "shapePath",
+      "id": "93D5CFA1-C339-4749-A4D6-1E8F20B6945B"
+    },
+    {
+      "class": "shapePath",
+      "id": "88BB0ABF-97BD-4207-9C12-31B6CC175A42"
     }
   ],
-  "name": "Dashboard",
+  "name": "New reservation",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

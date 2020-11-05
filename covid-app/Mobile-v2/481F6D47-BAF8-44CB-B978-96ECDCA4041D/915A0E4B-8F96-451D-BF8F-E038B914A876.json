@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 15,
-    "x": 331,
-    "y": 185.5555555555554
+    "height": 26,
+    "width": 27,
+    "x": 319,
+    "y": 180.0555555555552
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -34,7 +34,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "6724ABA3-19A7-4920-8508-E5D77D4234E1_symbolID",
-      "value": "B0F87D9A-E3BD-4F0C-9A11-3093F3689E94"
+      "value": "052D27AD-0ABA-43A8-B8F4-52A7DE2FF00E"
     }
   ],
   "resizingConstraint": 63,
@@ -74,7 +74,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.6580868675595238
+      "opacity": 1
     },
     "do_objectID": "398397D7-6759-424B-816D-F15DA74F859E",
     "endMarkerType": 0,

@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -70,32 +70,12 @@
       "id": "CE916EC6-3596-4967-B28E-92EF779F2995"
     },
     {
-      "class": "group",
-      "id": "DAB83497-8BDF-4EEB-A248-2CDB25076CD6"
-    },
-    {
-      "class": "text",
-      "id": "95BE14E0-24D9-4AC8-B4F1-88F216CF84AB"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1E461395-C195-470F-AF75-AB9657F487B4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AABEC037-C52B-451C-9A0E-9FEE0B4227C9"
-    },
-    {
       "class": "shapePath",
       "id": "5D18D214-7141-43B5-BEA8-64C6BE79CBAF"
     },
     {
       "class": "text",
       "id": "219956C4-0520-45F2-AFD1-BC6A51098955"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2B1AEEA9-CC02-4010-BF49-4434DC5418D5"
     },
     {
       "class": "text",
@@ -116,6 +96,50 @@
     {
       "class": "text",
       "id": "8B66C2DD-09B3-4A3B-95D1-F1C803933105"
+    },
+    {
+      "class": "shapePath",
+      "id": "A4646D0A-D771-4FD2-8ED4-86C2F0BCAB5D"
+    },
+    {
+      "class": "oval",
+      "id": "9A7E2202-675A-41BB-844A-E214BEE41C9C"
+    },
+    {
+      "class": "oval",
+      "id": "A259FE31-F88F-406A-A8D4-D5B012BF8F27"
+    },
+    {
+      "class": "oval",
+      "id": "F8C565A9-B4AA-4A66-A970-E574BF28891A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5960C381-39E8-4B30-8373-0B566A10C936"
+    },
+    {
+      "class": "oval",
+      "id": "F79CA2CF-B1A3-4514-9206-C4DF93C0BEBB"
+    },
+    {
+      "class": "oval",
+      "id": "9DD6F7E0-92A5-463E-BFD4-99F2A41516DE"
+    },
+    {
+      "class": "text",
+      "id": "7BFF7E1C-9DEC-42B5-8272-991478B90384"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E06A20AA-057A-407B-8D8C-00DCA43D06CE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "850304F1-F51C-460C-9221-CB2BD1B45F16"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC2098A6-DFCA-4779-B42C-1B14D6171102"
     }
   ],
   "name": "Result Copy",

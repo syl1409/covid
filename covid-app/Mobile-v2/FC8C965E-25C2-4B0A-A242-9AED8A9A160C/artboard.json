@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -94,10 +94,6 @@
       "id": "EB717B79-CBE5-4377-995E-3CB3E470C156"
     },
     {
-      "class": "text",
-      "id": "7CF98A38-B582-4F98-A74B-E00132CC048F"
-    },
-    {
       "class": "shapePath",
       "id": "1E7A4333-F51E-435B-AC34-A030F585F230"
     },
@@ -140,6 +136,30 @@
     {
       "class": "group",
       "id": "849D75DC-6665-4A16-97F4-E726927B1035"
+    },
+    {
+      "class": "group",
+      "id": "47DED266-D8BD-43FB-A761-5ABA590706C5"
+    },
+    {
+      "class": "rectangle",
+      "id": "73E585DA-CBFF-45C3-9BEE-2CCE452F0509"
+    },
+    {
+      "class": "text",
+      "id": "A507F29F-1CB3-4DDF-B834-6E7727D4D4C1"
+    },
+    {
+      "class": "shapePath",
+      "id": "542D7943-CE20-470F-A560-ED39C813E311"
+    },
+    {
+      "class": "shapePath",
+      "id": "680E37AB-B9BB-4890-B649-D1C0E464FD11"
+    },
+    {
+      "class": "shapePath",
+      "id": "6928FDBB-60FE-420B-AC4C-32C49B50638F"
     }
   ],
   "name": "transportation-2-no-parking",

@@ -94,10 +94,6 @@
       "id": "8E8F2FD3-D09A-447C-B9BB-3ABF00AF77E4"
     },
     {
-      "class": "text",
-      "id": "70EDA9BB-A3C9-4F0A-8D73-3BDAE5C9AACD"
-    },
-    {
       "class": "group",
       "id": "73967F17-8D7C-46DF-9452-0947160C32E3"
     },
@@ -120,6 +116,30 @@
     {
       "class": "text",
       "id": "577627A4-D66E-4E52-A813-542464E6EEAE"
+    },
+    {
+      "class": "group",
+      "id": "B3221403-361A-4C1F-ACCC-D5923DF4FB56"
+    },
+    {
+      "class": "rectangle",
+      "id": "DA9DCAE4-A3A3-4AF3-9921-C84F2344E5FE"
+    },
+    {
+      "class": "text",
+      "id": "4F396E42-966A-4F88-A014-B4CCAA74721F"
+    },
+    {
+      "class": "shapePath",
+      "id": "2A580BD0-C961-43B5-8E95-14E97860A9E3"
+    },
+    {
+      "class": "shapePath",
+      "id": "CA9870EF-0D19-48AF-93AD-E57397C5A06D"
+    },
+    {
+      "class": "shapePath",
+      "id": "BF47237A-3716-43C9-9B2C-B3EBF6DD87F1"
     }
   ],
   "name": "Health",
