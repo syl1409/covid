@@ -9,15 +9,16 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4509803921568628,
-            "green": 0.7803921568627451,
-            "red": 0.2784313725490196
+            "blue": 0.3842278079710145,
+            "green": 0.3842278079710145,
+            "red": 0.3842278079710145,
+            "swatchID": "D6FAECEE-685B-42F6-9B2D-A4C97FD71786"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Helvetica-Bold",
-              "size": 20
+              "size": 24
             }
           },
           "paragraphStyle": {
@@ -27,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 26,
+        "length": 25,
         "location": 0
       }
     ],
-    "string": "There is parking available"
+    "string": "Nice, parking is availble"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 251,
-    "x": 622,
-    "y": 619
+    "height": 67,
+    "width": 301,
+    "x": 838,
+    "y": 616
   },
-  "glyphBounds": "{{0, 4}, {244, 20}}",
+  "glyphBounds": "{{1, 5}, {271, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "There is parking ava",
+  "name": "Nice, parking is ava",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,7 +78,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 12,
       "saturation": 1,
       "type": 0
     },
@@ -120,15 +121,16 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4509803921568628,
-          "green": 0.7803921568627451,
-          "red": 0.2784313725490196
+          "blue": 0.3842278079710145,
+          "green": 0.3842278079710145,
+          "red": 0.3842278079710145,
+          "swatchID": "D6FAECEE-685B-42F6-9B2D-A4C97FD71786"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Helvetica-Bold",
-            "size": 20
+            "size": 24
           }
         },
         "paragraphStyle": {

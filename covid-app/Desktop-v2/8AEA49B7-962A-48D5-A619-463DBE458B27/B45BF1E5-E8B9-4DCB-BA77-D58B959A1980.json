@@ -54,8 +54,8 @@
     "constrainProportions": false,
     "height": 60,
     "width": 529,
-    "x": 636.5,
-    "y": 460
+    "x": 684.5,
+    "y": 441
   },
   "glyphBounds": "{{0, 2}, {521, 25}}",
   "hasClippingMask": false,
@@ -142,7 +142,7 @@
         "textStyleVerticalAlignmentKey": 0,
         "underlineStyle": 0
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },

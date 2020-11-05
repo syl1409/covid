@@ -11,7 +11,8 @@
             "alpha": 1,
             "blue": 0.3842278079710145,
             "green": 0.3842278079710145,
-            "red": 0.3842278079710145
+            "red": 0.3842278079710145,
+            "swatchID": "D6FAECEE-685B-42F6-9B2D-A4C97FD71786"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -53,7 +54,7 @@
     "height": 65,
     "width": 644,
     "x": 505,
-    "y": 294
+    "y": 304
   },
   "glyphBounds": "{{0, 4}, {616, 20}}",
   "hasClippingMask": false,
@@ -122,7 +123,8 @@
           "alpha": 1,
           "blue": 0.3842278079710145,
           "green": 0.3842278079710145,
-          "red": 0.3842278079710145
+          "red": 0.3842278079710145,
+          "swatchID": "D6FAECEE-685B-42F6-9B2D-A4C97FD71786"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

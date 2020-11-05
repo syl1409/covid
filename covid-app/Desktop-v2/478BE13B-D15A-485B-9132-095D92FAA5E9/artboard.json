@@ -34,13 +34,13 @@
     "height": 1024,
     "width": 1440,
     "x": 3494,
-    "y": -557
+    "y": 746
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,40 +59,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "DF4C8BA9-28CC-493E-805C-7EF3A2443C42"
-    },
-    {
-      "class": "rectangle",
-      "id": "8DC95566-6623-451B-B3E1-314E2BA8D00E"
-    },
-    {
-      "class": "text",
-      "id": "40D6930E-B6B2-4D83-ACF5-6C2F21952174"
-    },
-    {
-      "class": "text",
-      "id": "38E5F636-F192-4890-AE2D-BA9C9C858CCA"
-    },
-    {
       "class": "symbolInstance",
       "id": "7CEF04E9-5D1D-437A-82D6-C07E89CE5DF8"
-    },
-    {
-      "class": "rectangle",
-      "id": "8E8A18ED-21C9-4939-BF83-5818FF68F66E"
-    },
-    {
-      "class": "group",
-      "id": "B0FC8B9D-A9AA-4B6C-869D-81819B2C4D09"
-    },
-    {
-      "class": "group",
-      "id": "E7B2FDD2-0B51-4458-9F48-DB837CC6F20B"
-    },
-    {
-      "class": "group",
-      "id": "67130BAD-513F-4B73-ABD1-5A5E80C34C10"
     },
     {
       "class": "text",
@@ -213,6 +181,122 @@
     {
       "class": "group",
       "id": "8E170A3E-0FB2-4207-98DA-53F44DAE93FF"
+    },
+    {
+      "class": "group",
+      "id": "515D458D-6B6E-443E-BADE-EE33CFA51964"
+    },
+    {
+      "class": "rectangle",
+      "id": "26F82473-C751-42D6-ACBE-643B54CC9EED"
+    },
+    {
+      "class": "group",
+      "id": "F83BB979-9D13-479A-BF3B-5B061EB50FF6"
+    },
+    {
+      "class": "text",
+      "id": "EED5ADCA-8094-419A-8FA4-E20C52931EAB"
+    },
+    {
+      "class": "text",
+      "id": "BD8683E2-58DE-4BB0-B7D4-5B58B861A705"
+    },
+    {
+      "class": "text",
+      "id": "E90DFF24-0399-4BC8-9D29-C69125C5DC96"
+    },
+    {
+      "class": "text",
+      "id": "DA1507D2-B56F-4467-8567-2D861CC062F1"
+    },
+    {
+      "class": "text",
+      "id": "F9A8867D-7464-405C-87CA-94D54303E537"
+    },
+    {
+      "class": "text",
+      "id": "6BE5E46B-9AEA-4ECD-B225-2E9BC8F9F53D"
+    },
+    {
+      "class": "text",
+      "id": "8D04A851-5875-411D-9CFB-8FDB359B1D5F"
+    },
+    {
+      "class": "text",
+      "id": "FE929D0D-CF68-4F6E-B14D-7F7EC8CEDDE7"
+    },
+    {
+      "class": "text",
+      "id": "78AAE56B-5A01-4C20-82CB-A89CEB8127B5"
+    },
+    {
+      "class": "text",
+      "id": "F7592FEB-79D5-4184-BD2A-96AF34D9C2E1"
+    },
+    {
+      "class": "text",
+      "id": "C3B34FDF-5211-4AE9-A7DC-F963C6756BCB"
+    },
+    {
+      "class": "shapePath",
+      "id": "B15925D2-2EF8-49B6-9F60-04F5C1FBE027"
+    },
+    {
+      "class": "oval",
+      "id": "EFE2EDCE-2F02-4534-ABAE-257DE192250C"
+    },
+    {
+      "class": "oval",
+      "id": "DD9B0155-87F0-44D2-8769-69A16D28283E"
+    },
+    {
+      "class": "oval",
+      "id": "FE34CD9A-BB22-434A-9B7F-8BE516C833C4"
+    },
+    {
+      "class": "oval",
+      "id": "F0616FA4-67CF-427A-92DB-E4964FC963EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C899385-60B1-4D90-ABC8-7AAA4DFEC784"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6BE4C735-6CE4-41E4-ABFA-588FE315BD89"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A194208B-A0FB-414C-9865-D9556C0B28AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31CF8BF0-438A-4F1A-A39D-4BED1FD18CD2"
+    },
+    {
+      "class": "rectangle",
+      "id": "02A65379-FFC5-4CC7-88DE-ED6623530AE7"
+    },
+    {
+      "class": "text",
+      "id": "71D7BECC-3DF6-4702-AEC0-E724E40D0021"
+    },
+    {
+      "class": "oval",
+      "id": "5CE6AB96-BCBC-4A47-980B-01ADECEEB6EA"
+    },
+    {
+      "class": "text",
+      "id": "7767C31E-0FAB-4A4B-8B20-A0E4ACAE14E6"
+    },
+    {
+      "class": "oval",
+      "id": "7DCB2AFB-4FB0-4CAE-9189-7A96D698385A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFC77D87-4261-44CB-8128-50B23EBE826C"
     }
   ],
   "layout": {
@@ -222,13 +306,13 @@
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 20,
+    "gutterWidth": 40.91666666666666,
     "guttersOutside": true,
-    "horizontalOffset": 145.5,
+    "horizontalOffset": 21,
     "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
-    "totalWidth": 1149
+    "totalWidth": 1400
   },
   "name": "Health status",
   "nameIsFixed": true,
