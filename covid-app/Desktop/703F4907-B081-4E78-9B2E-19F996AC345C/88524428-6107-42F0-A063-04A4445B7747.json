@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Helvetica-Bold",
-              "size": 60
+              "size": 50
             }
           },
           "paragraphStyle": {
@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 18,
         "location": 0
       }
     ],
-    "string": "Hi John,"
+    "string": "Hi Sandra Coronel,"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 72,
-    "width": 237,
-    "x": 602,
-    "y": 367
+    "height": 60,
+    "width": 451,
+    "x": 495,
+    "y": 345
   },
-  "glyphBounds": "{{4, 14}, {229, 55}}",
+  "glyphBounds": "{{3, 11}, {444, 47}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,8 +63,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "Hi John,",
+  "lineSpacingBehaviour": 3,
+  "name": "Hi Sandra Coronel,",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -128,7 +128,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Helvetica-Bold",
-            "size": 60
+            "size": 50
           }
         },
         "paragraphStyle": {

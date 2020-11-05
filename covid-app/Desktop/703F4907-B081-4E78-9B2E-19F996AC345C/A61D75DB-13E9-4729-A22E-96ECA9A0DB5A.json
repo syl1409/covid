@@ -53,7 +53,7 @@
     "height": 26,
     "width": 601,
     "x": 420,
-    "y": 815
+    "y": 990
   },
   "glyphBounds": "{{39, 2}, {523, 12}}",
   "hasClippingMask": false,
@@ -138,7 +138,7 @@
         },
         "textStyleVerticalAlignmentKey": 0
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },
