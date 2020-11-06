@@ -649,167 +649,6 @@
     }
   ],
   "foreignLayerStyles": [
-    {
-      "_class": "MSImmutableForeignLayerStyle",
-      "do_objectID": "96BF67FA-3144-46E5-A4F0-BEEC1DB304FA",
-      "libraryID": "CCE7972D-70BC-4E2A-8E9D-09BCD4FC367B",
-      "localSharedStyle": {
-        "_class": "sharedStyle",
-        "do_objectID": "C38EA482-6961-4DD7-84E1-CC9E991F6EFF",
-        "name": "Color/Black",
-        "value": {
-          "_class": "style",
-          "blur": {
-            "_class": "blur",
-            "center": "{0.5, 0.5}",
-            "isEnabled": false,
-            "motionAngle": 0,
-            "radius": 10,
-            "saturation": 1,
-            "type": 0
-          },
-          "borderOptions": {
-            "_class": "borderOptions",
-            "dashPattern": [
-            ],
-            "isEnabled": true,
-            "lineCapStyle": 0,
-            "lineJoinStyle": 0
-          },
-          "borders": [
-            {
-              "_class": "border",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.7657578656462585,
-                "green": 0.7657578656462585,
-                "red": 0.7657578656462585
-              },
-              "contextSettings": {
-                "_class": "graphicsContextSettings",
-                "blendMode": 0,
-                "opacity": 1
-              },
-              "fillType": 0,
-              "gradient": {
-                "_class": "gradient",
-                "elipseLength": 0,
-                "from": "{0.5, 0}",
-                "gradientType": 0,
-                "stops": [
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 1,
-                      "green": 1,
-                      "red": 1
-                    },
-                    "position": 0
-                  },
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 0,
-                      "green": 0,
-                      "red": 0
-                    },
-                    "position": 1
-                  }
-                ],
-                "to": "{0.5, 1}"
-              },
-              "isEnabled": false,
-              "position": 1,
-              "thickness": 1
-            }
-          ],
-          "colorControls": {
-            "_class": "colorControls",
-            "brightness": 0,
-            "contrast": 1,
-            "hue": 0,
-            "isEnabled": false,
-            "saturation": 1
-          },
-          "contextSettings": {
-            "_class": "graphicsContextSettings",
-            "blendMode": 0,
-            "opacity": 1
-          },
-          "do_objectID": "5C377D27-3FA7-405E-BF5F-F34EF8441EC2",
-          "endMarkerType": 0,
-          "fills": [
-            {
-              "_class": "fill",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.2584236819727891,
-                "green": 0.1635533675541042,
-                "red": 0.142508261491939
-              },
-              "contextSettings": {
-                "_class": "graphicsContextSettings",
-                "blendMode": 0,
-                "opacity": 1
-              },
-              "fillType": 0,
-              "gradient": {
-                "_class": "gradient",
-                "elipseLength": 0,
-                "from": "{0.5, 0}",
-                "gradientType": 0,
-                "stops": [
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 1,
-                      "green": 1,
-                      "red": 1
-                    },
-                    "position": 0
-                  },
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 0,
-                      "green": 0,
-                      "red": 0
-                    },
-                    "position": 1
-                  }
-                ],
-                "to": "{0.5, 1}"
-              },
-              "isEnabled": true,
-              "noiseIndex": 0,
-              "noiseIntensity": 0,
-              "patternFillType": 0,
-              "patternTileScale": 1
-            }
-          ],
-          "innerShadows": [
-          ],
-          "miterLimit": 10,
-          "shadows": [
-          ],
-          "startMarkerType": 0,
-          "windingRule": 1
-        }
-      },
-      "remoteStyleID": "0D45E21E-7B06-4C0B-B6DB-12C85FB45EDD[26765A4D-17D5-42BB-BC8C-DD2ECFCCC923]",
-      "sourceLibraryName": "Font_Awesome_5_Icons_Sketch_Libraries-tranmautritam",
-      "symbolPrivate": true
-    }
   ],
   "foreignSwatches": [
   ],
@@ -35735,7 +35574,7 @@
                 "brightness": 0,
                 "contrast": 1,
                 "hue": 0,
-                "isEnabled": false,
+                "isEnabled": true,
                 "saturation": 1
               },
               "contextSettings": {
@@ -35743,7 +35582,7 @@
                 "blendMode": 0,
                 "opacity": 1
               },
-              "do_objectID": "91CCC7A7-E17D-4B27-9C24-269F2066E214",
+              "do_objectID": "F77F9395-65E8-49B8-9AE5-12902EEA8206",
               "endMarkerType": 0,
               "fills": [
                 {
@@ -35879,7 +35718,7 @@
                 "brightness": 0,
                 "contrast": 1,
                 "hue": 0,
-                "isEnabled": false,
+                "isEnabled": true,
                 "saturation": 1
               },
               "contextSettings": {
@@ -35887,7 +35726,7 @@
                 "blendMode": 0,
                 "opacity": 1
               },
-              "do_objectID": "8C510A81-4490-4FBD-A8D9-EA3967DECE23",
+              "do_objectID": "A43A47CD-92E0-4953-BA4B-37FA953AB0D4",
               "endMarkerType": 0,
               "fills": [
               ],
@@ -35951,7 +35790,7 @@
             "brightness": 0,
             "contrast": 1,
             "hue": 0,
-            "isEnabled": false,
+            "isEnabled": true,
             "saturation": 1
           },
           "contextSettings": {
@@ -35959,7 +35798,7 @@
             "blendMode": 0,
             "opacity": 1
           },
-          "do_objectID": "F00C2060-BC34-4E3F-A6D0-E3318BD96462",
+          "do_objectID": "AD1F3CFB-3EEB-4F83-9EAA-E988E5F6B338",
           "endMarkerType": 0,
           "fills": [
           ],
@@ -36225,7 +36064,7 @@
                 "brightness": 0,
                 "contrast": 1,
                 "hue": 0,
-                "isEnabled": false,
+                "isEnabled": true,
                 "saturation": 1
               },
               "contextSettings": {
@@ -36233,7 +36072,7 @@
                 "blendMode": 0,
                 "opacity": 1
               },
-              "do_objectID": "91CCC7A7-E17D-4B27-9C24-269F2066E214",
+              "do_objectID": "F77F9395-65E8-49B8-9AE5-12902EEA8206",
               "endMarkerType": 0,
               "fills": [
                 {
@@ -36369,7 +36208,7 @@
                 "brightness": 0,
                 "contrast": 1,
                 "hue": 0,
-                "isEnabled": false,
+                "isEnabled": true,
                 "saturation": 1
               },
               "contextSettings": {
@@ -36377,7 +36216,7 @@
                 "blendMode": 0,
                 "opacity": 1
               },
-              "do_objectID": "8C510A81-4490-4FBD-A8D9-EA3967DECE23",
+              "do_objectID": "A43A47CD-92E0-4953-BA4B-37FA953AB0D4",
               "endMarkerType": 0,
               "fills": [
               ],
@@ -36441,7 +36280,7 @@
             "brightness": 0,
             "contrast": 1,
             "hue": 0,
-            "isEnabled": false,
+            "isEnabled": true,
             "saturation": 1
           },
           "contextSettings": {
@@ -36449,7 +36288,7 @@
             "blendMode": 0,
             "opacity": 1
           },
-          "do_objectID": "F00C2060-BC34-4E3F-A6D0-E3318BD96462",
+          "do_objectID": "AD1F3CFB-3EEB-4F83-9EAA-E988E5F6B338",
           "endMarkerType": 0,
           "fills": [
           ],
@@ -36694,7 +36533,7 @@
                 "brightness": 0,
                 "contrast": 1,
                 "hue": 0,
-                "isEnabled": false,
+                "isEnabled": true,
                 "saturation": 1
               },
               "contextSettings": {
@@ -36702,7 +36541,7 @@
                 "blendMode": 0,
                 "opacity": 1
               },
-              "do_objectID": "597B0099-5AFF-4404-BE4B-843704054B32",
+              "do_objectID": "FA3C1801-4B47-4C07-98A5-8BA6E361FF52",
               "endMarkerType": 0,
               "fills": [
                 {
@@ -36836,7 +36675,7 @@
             "brightness": 0,
             "contrast": 1,
             "hue": 0,
-            "isEnabled": false,
+            "isEnabled": true,
             "saturation": 1
           },
           "contextSettings": {
@@ -36844,7 +36683,7 @@
             "blendMode": 0,
             "opacity": 1
           },
-          "do_objectID": "FE4A55CC-4871-455B-AF35-DEF9998D12DB",
+          "do_objectID": "54BDA70D-5723-46F5-BFD1-CD1055E46759",
           "endMarkerType": 0,
           "fills": [
           ],
@@ -37000,7 +36839,7 @@
             "resizingConstraint": 63,
             "resizingType": 0,
             "rotation": 0,
-            "sharedStyleID": "C38EA482-6961-4DD7-84E1-CC9E991F6EFF",
+            "sharedStyleID": "26765A4D-17D5-42BB-BC8C-DD2ECFCCC923",
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
@@ -37078,7 +36917,7 @@
                 "brightness": 0,
                 "contrast": 1,
                 "hue": 0,
-                "isEnabled": false,
+                "isEnabled": true,
                 "saturation": 1
               },
               "contextSettings": {
@@ -37086,7 +36925,7 @@
                 "blendMode": 0,
                 "opacity": 1
               },
-              "do_objectID": "597B0099-5AFF-4404-BE4B-843704054B32",
+              "do_objectID": "FA3C1801-4B47-4C07-98A5-8BA6E361FF52",
               "endMarkerType": 0,
               "fills": [
                 {
@@ -37220,7 +37059,7 @@
             "brightness": 0,
             "contrast": 1,
             "hue": 0,
-            "isEnabled": false,
+            "isEnabled": true,
             "saturation": 1
           },
           "contextSettings": {
@@ -37228,7 +37067,7 @@
             "blendMode": 0,
             "opacity": 1
           },
-          "do_objectID": "FE4A55CC-4871-455B-AF35-DEF9998D12DB",
+          "do_objectID": "54BDA70D-5723-46F5-BFD1-CD1055E46759",
           "endMarkerType": 0,
           "fills": [
           ],
@@ -44099,6 +43938,18 @@
           "blue": 0.2156862745098039,
           "green": 0.2156862745098039,
           "red": 0.792156862745098
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "1395FEE9-8D7D-4CDD-AF9F-8DC5CCB1826A",
+        "name": "626262",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3842278079710145,
+          "green": 0.3842278079710145,
+          "red": 0.3842278079710145
         }
       }
     ]

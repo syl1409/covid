@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 37,
+        "length": 49,
         "location": 0
       }
     ],
-    "string": "Please answer the following questions"
+    "string": "Choose the symptoms that you have been presented:"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 336,
+    "width": 277,
     "x": 24,
-    "y": 276
+    "y": 296
   },
-  "glyphBounds": "{{1, 4}, {253, 15}}",
+  "glyphBounds": "{{0, 3}, {243, 34}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Please answer the fo",
+  "name": "Choose the symptoms",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

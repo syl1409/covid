@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.3842278079710145,
+            "green": 0.3842278079710145,
+            "red": 0.3842278079710145
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Bold",
-              "size": 16
+              "name": "Helvetica",
+              "size": 15
             }
           },
           "paragraphStyle": {
@@ -25,20 +25,18 @@
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           },
-          "strikethroughStyle": 0,
-          "textStyleVerticalAlignmentKey": 0,
-          "underlineStyle": 0
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 30,
+        "length": 29,
         "location": 0
       }
     ],
-    "string": "How you are felling right now?"
+    "string": "Choose the options if applies"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "340E84D6-6C92-443E-9313-25593D4E799C",
+  "do_objectID": "B3D783D5-0D90-476C-85D3-7B44943A5884",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 328,
-    "x": 24.5,
-    "y": 254
+    "height": 36,
+    "width": 277,
+    "x": 24,
+    "y": 795
   },
-  "glyphBounds": "{{1, 1}, {247, 15}}",
+  "glyphBounds": "{{0, 3}, {193, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,9 +64,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "How you are felling",
+  "name": "Choose the options i",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -106,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "3FA287F3-DCBF-41CC-820E-867F3A79597B",
+    "do_objectID": "AC6F5BE5-E746-4A89-B80B-B3D23DDBAB81",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -122,15 +120,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.3842278079710145,
+          "green": 0.3842278079710145,
+          "red": 0.3842278079710145
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Bold",
-            "size": 16
+            "name": "Helvetica",
+            "size": 15
           }
         },
         "paragraphStyle": {
@@ -138,13 +136,11 @@
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         },
-        "strikethroughStyle": 0,
-        "textStyleVerticalAlignmentKey": 0,
-        "underlineStyle": 0
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 2
 }
