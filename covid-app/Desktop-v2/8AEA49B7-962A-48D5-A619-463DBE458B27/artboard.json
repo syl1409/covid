@@ -277,6 +277,10 @@
     {
       "class": "symbolInstance",
       "id": "B3AE811C-90DE-45FE-9AE0-D3D8A123B9C7"
+    },
+    {
+      "class": "group",
+      "id": "026BEC11-0179-4406-A38A-BEFA50FAC5CE"
     }
   ],
   "layout": {
