@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "395CF0D0-A1BE-4BB9-8005-C508E8708B7D",
+  "do_objectID": "73648FD4-BF58-4679-9D17-3341C3D1F9D3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 9,
-    "width": 15,
-    "x": 217.5,
-    "y": 406
+    "height": 38,
+    "width": 144,
+    "x": 228,
+    "y": 18
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -26,19 +26,27 @@
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
-  "isFlippedHorizontal": true,
+  "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "D14719C3-08DF-4850-B02F-D029CAE5DAB1"
+    },
+    {
       "class": "shapePath",
-      "id": "88FE3D38-C868-42F9-BCFF-0D475D5CCD84"
+      "id": "2B22743A-EE4A-4E18-8F9F-EF036FCD6DD0"
+    },
+    {
+      "class": "shapePath",
+      "id": "278D4436-A85C-40B9-9922-E6293A2733F5"
     }
   ],
-  "name": "ic_add copy",
-  "nameIsFixed": false,
+  "name": "Background",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -77,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "99E3CB0C-7E1E-49ED-BC7D-D428DD5F0001",
+    "do_objectID": "549C5DB9-DE48-4557-978D-5EEB79447C5A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,41 +96,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "com.bohemiancoding.sketchtool.detach": {
-      "symbolInstance": {
-        "do_objectID": "A7A7A729-3E08-44B9-9315-5C94CD93D13E",
-        "frame": {
-          "_class": "rect",
-          "constrainProportions": false,
-          "height": 17,
-          "width": 17,
-          "x": 216.5,
-          "y": 402
-        }
-      },
-      "symbolMaster": {
-        "do_objectID": "50C46024-459E-4ECC-9C54-B2D50F2F1F47",
-        "symbolID": "850C396B-84EF-45F0-879A-800F4DAC0C21"
-      }
-    },
-    "com.sketch.detach": {
-      "symbolInstance": {
-        "do_objectID": "A7A7A729-3E08-44B9-9315-5C94CD93D13E",
-        "frame": {
-          "_class": "rect",
-          "constrainProportions": false,
-          "height": 17,
-          "width": 17,
-          "x": 216.5,
-          "y": 402
-        }
-      },
-      "symbolMaster": {
-        "do_objectID": "50C46024-459E-4ECC-9C54-B2D50F2F1F47",
-        "symbolID": "850C396B-84EF-45F0-879A-800F4DAC0C21"
-      }
-    }
   }
 }

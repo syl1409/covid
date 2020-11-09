@@ -2,7 +2,7 @@
   "_class": "shapePath",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "39777A1F-F57B-4CA1-A005-747AA0E903DE",
+  "do_objectID": "278D4436-A85C-40B9-9922-E6293A2733F5",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 74,
-    "width": 123,
-    "x": 127,
-    "y": 400
+    "height": 33,
+    "width": 131,
+    "x": 9,
+    "y": 1
   },
   "hasClippingMask": false,
   "isClosed": false,
@@ -29,29 +29,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Line Copy",
+  "name": "Line",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.0014705882352941165, 0.0016077170418006413}",
+      "curveFrom": "{0.0014705882352941471, 0.0016077170418006387}",
       "curveMode": 1,
-      "curveTo": "{0.0014705882352941165, 0.0016077170418006413}",
+      "curveTo": "{0.0014705882352941471, 0.0016077170418006387}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.0014705882352941165, 0.0016077170418006413}"
+      "point": "{0.0014705882352941124, 0.99839228295819937}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.0014705882352941165, 0.0016077170418006413}",
+      "curveFrom": "{0.0014705882352941471, 0.0016077170418006387}",
       "curveMode": 1,
-      "curveTo": "{0.0014705882352941165, 0.0016077170418006413}",
+      "curveTo": "{0.0014705882352941471, 0.0016077170418006387}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.99852941176470589, 0.99839228295819937}"
+      "point": "{0.99852941176470611, 0.0016077170418006422}"
     }
   ],
   "resizingConstraint": 63,
@@ -142,7 +142,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "1DE0F144-17AA-4B7C-8F0F-7C8D1231E94F",
+    "do_objectID": "478A3430-C979-4CFD-AE6D-8F322B5B24EA",
     "endMarkerType": 0,
     "fills": [
       {
