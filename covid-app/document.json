@@ -92,7 +92,7 @@
       "do_objectID": "287DDE52-ACAD-4C04-A27D-29E5B0C47ECB",
       "fontFamilyName": "Gotham",
       "fontFileName": "Gotham-Light.otf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "Gotham-Light"
       ]
@@ -362,7 +362,7 @@
       "do_objectID": "8D39DF40-7018-4C40-8D6B-1F2D9D250094",
       "fontFamilyName": "Gotham",
       "fontFileName": "Gotham-Book.otf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "Gotham-Book"
       ]
@@ -472,7 +472,7 @@
       "do_objectID": "AC38F6ED-3E8C-4B40-98CD-0DB4E9348E22",
       "fontFamilyName": "Gotham",
       "fontFileName": "Gotham-XLightItalic.otf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "Gotham-XLightItalic"
       ]

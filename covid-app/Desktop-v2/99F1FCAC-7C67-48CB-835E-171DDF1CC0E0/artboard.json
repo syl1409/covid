@@ -1,0 +1,240 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "99F1FCAC-7C67-48CB-835E-171DDF1CC0E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 1440,
+    "x": -6535,
+    "y": -557
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F0A0090C-E19A-4981-8D1B-1F1410FFCA63"
+    },
+    {
+      "class": "group",
+      "id": "795C8EA4-A168-4822-A235-690D91479602"
+    },
+    {
+      "class": "text",
+      "id": "6EC1ADC6-294A-4B2A-9D13-DFD190D6BE17"
+    },
+    {
+      "class": "rectangle",
+      "id": "3EC7D5F7-6759-4FDE-A713-004B61293E84"
+    },
+    {
+      "class": "text",
+      "id": "CB4792E1-A572-4621-A0C7-E985E947EEC7"
+    },
+    {
+      "class": "text",
+      "id": "5502103B-46D0-4938-9185-E5B81D16580B"
+    },
+    {
+      "class": "text",
+      "id": "3AAFE22D-5B35-43DF-AC69-A2B9999B5287"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6DFB8F0D-FF16-4129-8E31-399BE53C006F"
+    },
+    {
+      "class": "rectangle",
+      "id": "84A68DF6-E044-4BAC-B7FF-09D6BB554E44"
+    },
+    {
+      "class": "group",
+      "id": "451EC6F6-2033-4831-8A13-21D78D9AAD01"
+    },
+    {
+      "class": "group",
+      "id": "CD5FAC1D-A312-4382-A4C7-77B5A836801B"
+    },
+    {
+      "class": "rectangle",
+      "id": "2DCE2E73-81FA-49AF-8D1A-BE409CCB4F8E"
+    },
+    {
+      "class": "rectangle",
+      "id": "5BE73A91-5CD2-48E6-89F1-F3B31F5349C3"
+    },
+    {
+      "class": "group",
+      "id": "19A73BDF-7597-4D35-AF3B-E5B341855F79"
+    },
+    {
+      "class": "group",
+      "id": "322C8B17-57DF-4E65-B7B6-5510ACF7C73D"
+    },
+    {
+      "class": "rectangle",
+      "id": "2975AD22-58A2-4402-8B95-055444239AFC"
+    },
+    {
+      "class": "rectangle",
+      "id": "210E9519-6379-4EB6-A2AB-5BD76A568061"
+    },
+    {
+      "class": "group",
+      "id": "4DC5C955-882E-4D5F-9711-AC8021E26858"
+    },
+    {
+      "class": "text",
+      "id": "D81950ED-4705-4898-8849-26F4B5730E5D"
+    },
+    {
+      "class": "text",
+      "id": "82B7D7A8-4189-415E-9535-017CB515379B"
+    },
+    {
+      "class": "text",
+      "id": "F4032FF9-1FC0-42F7-BF79-225C239C9BED"
+    },
+    {
+      "class": "text",
+      "id": "7B7E00B0-CCA8-4E7D-AEBC-4ABC716EDC44"
+    },
+    {
+      "class": "group",
+      "id": "D269A230-2179-4173-8397-E2A4AC8F97D1"
+    },
+    {
+      "class": "group",
+      "id": "9BF388BA-98D7-416A-9F6D-392C47991B03"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 75.75,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 145.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1149
+  },
+  "name": "Motivation",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "EEB1D5FC-473B-4F11-8F48-D6C290234B0F",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      482
+    ]
+  }
+}
