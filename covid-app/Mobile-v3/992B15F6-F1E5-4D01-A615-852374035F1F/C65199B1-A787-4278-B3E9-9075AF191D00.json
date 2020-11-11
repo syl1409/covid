@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 50,
+        "length": 55,
         "location": 0
       }
     ],
-    "string": "You can schedule between the following next 7 days"
+    "string": "You can schedule between the following next 7 work days"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,

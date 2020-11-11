@@ -62,7 +62,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 17,
         "location": 41
       },
       {
@@ -93,11 +93,73 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 75,
-        "location": 53
+        "length": 6,
+        "location": 58
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3842278079710145,
+            "green": 0.3842278079710145,
+            "red": 0.3842278079710145
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Gotham-Bold",
+              "size": 15
+            }
+          },
+          "kerning": -0.2,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 19,
+            "minimumLineHeight": 19,
+            "paragraphSpacing": 0.4
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 18,
+        "location": 64
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3842278079710145,
+            "green": 0.3842278079710145,
+            "red": 0.3842278079710145
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Gotham-Book",
+              "size": 15
+            }
+          },
+          "kerning": -0.2,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 19,
+            "minimumLineHeight": 19,
+            "paragraphSpacing": 0.4
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 51,
+        "location": 82
       }
     ],
-    "string": "You will have the posibility to book the next 7 days. Your session last 10min, please fill out all the information in that time."
+    "string": "You will have the posibility to book the next 7 work days. Your session last 10min, please fill out all the information in that time."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -121,7 +183,7 @@
     "x": 19,
     "y": 280
   },
-  "glyphBounds": "{{0, 6}, {333, 50}}",
+  "glyphBounds": "{{0, 6}, {331, 50}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

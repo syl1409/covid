@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 131,
+        "length": 126,
         "location": 0
       }
     ],
-    "string": "Specific hardware/software needs only reachable on site\nBroadband and conectivity needs \nClients or key stakeholders visits on site"
+    "string": "Specific hardware/software needs only reachable on site\nInternet connection issues \nClients or key stakeholders visits on site"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,

@@ -9,35 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.02584352355072464,
-            "green": 0.02584352355072464,
-            "red": 0.02584352355072464
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Medium",
+              "name": "Gotham-Bold",
               "size": 13
             }
           },
-          "kerning": -0.455,
+          "kerning": -0.5,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "paragraphSpacing": 0.1
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "Office"
+    "string": "Office North 93"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8E38028E-8963-44E7-A6ED-BB1D3A804775",
+  "do_objectID": "6C5DC746-6DF2-4D7A-B1C6-36F5D5CD84B9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 13,
-    "width": 38,
-    "x": 286,
-    "y": 507
+    "height": 15,
+    "width": 129,
+    "x": 53,
+    "y": 484
   },
-  "glyphBounds": "{{0, 0}, {38, 11}}",
+  "glyphBounds": "{{0, 0}, {96, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Office",
+  "name": "Office North 93 Copy 2",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -105,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "04CC7654-83CD-49D7-903A-F8C55E131AD9",
+    "do_objectID": "9F0BDD84-EB7E-4AF2-98FD-DEC529B7292B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -121,22 +122,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.02584352355072464,
-          "green": 0.02584352355072464,
-          "red": 0.02584352355072464
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Medium",
+            "name": "Gotham-Bold",
             "size": 13
           }
         },
-        "kerning": -0.455,
+        "kerning": -0.5,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "paragraphSpacing": 0.1
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -144,12 +146,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  }
+  "textBehaviour": 2
 }

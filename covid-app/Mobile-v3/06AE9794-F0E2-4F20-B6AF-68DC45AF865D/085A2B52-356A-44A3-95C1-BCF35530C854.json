@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 60,
+        "length": 46,
         "location": 0
       }
     ],
-    "string": "Teambuildings\n1 on 1s \nHuddles\nOther internal group meetings"
+    "string": "Teambuildings\n1 on 1s \nInternal group meetings"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 65,
+    "height": 57,
     "width": 242,
     "x": 97,
-    "y": 993
+    "y": 998
   },
-  "glyphBounds": "{{0, 3}, {172, 61}}",
+  "glyphBounds": "{{0, 3}, {137, 45}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

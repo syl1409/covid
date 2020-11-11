@@ -16,28 +16,29 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Medium",
+              "name": "Gotham-Book",
               "size": 13
             }
           },
-          "kerning": -0.455,
+          "kerning": -0.5,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "paragraphSpacing": 0.1
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 7,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "Bicycle"
+    "string": "Friday 9th December"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F78045F6-D750-458E-BF75-95E2C60E070A",
+  "do_objectID": "07C3B24A-0C6C-4CA1-AA1D-F5A47C4DE10E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 13,
-    "width": 44,
-    "x": 289,
-    "y": 702
+    "height": 15,
+    "width": 171,
+    "x": 53,
+    "y": 348
   },
-  "glyphBounds": "{{1, 0}, {43, 13}}",
+  "glyphBounds": "{{1, 0}, {127, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Bicycle",
+  "name": "Friday 9th December",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -105,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "30014899-6785-4B1C-B07B-509234430590",
+    "do_objectID": "B0B317DA-F367-48C6-8F1A-B07DBC3BE0BA",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -128,15 +129,16 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Medium",
+            "name": "Gotham-Book",
             "size": 13
           }
         },
-        "kerning": -0.455,
+        "kerning": -0.5,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "paragraphSpacing": 0.1
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -144,12 +146,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  }
+  "textBehaviour": 2
 }

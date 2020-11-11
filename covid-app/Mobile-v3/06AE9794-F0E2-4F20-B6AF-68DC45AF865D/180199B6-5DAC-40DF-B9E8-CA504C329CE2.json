@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 89,
+        "length": 76,
         "location": 0
       }
     ],
-    "string": "Credentials and Access\nHardware and software related issues\nEquipment replacement/request"
+    "string": "Credentials and Access\nSoftware related issues\nEquipment replacement/request"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,7 +55,7 @@
     "x": 97,
     "y": 479
   },
-  "glyphBounds": "{{0, 3}, {218, 45}}",
+  "glyphBounds": "{{0, 3}, {184, 45}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 113,
+        "length": 101,
         "location": 0
       }
     ],
-    "string": "Trainings\nNew Hire/Onboarding Orientation \nAppraisal reviews (meetings and support)\nPathfinder related activities"
+    "string": "Trainings\nNew Hire/Onboarding \nAppraisal reviews (meetings and support)\nPathfinder related activities"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,

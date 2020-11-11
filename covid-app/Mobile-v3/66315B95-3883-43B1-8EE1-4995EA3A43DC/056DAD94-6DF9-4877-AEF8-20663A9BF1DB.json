@@ -9,35 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.02584352355072464,
-            "green": 0.02584352355072464,
-            "red": 0.02584352355072464
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Medium",
+              "name": "Gotham-XLightItalic",
               "size": 13
             }
           },
-          "kerning": -0.455,
+          "kerning": -0.5,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "paragraphSpacing": 0.1
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 3,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Car"
+    "string": "On car"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "97E07B86-91F5-412C-862C-663F8F749C97",
+  "do_objectID": "056DAD94-6DF9-4877-AEF8-20663A9BF1DB",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 13,
-    "width": 22,
-    "x": 285,
-    "y": 573
+    "height": 15,
+    "width": 134,
+    "x": 54,
+    "y": 363
   },
-  "glyphBounds": "{{0, 0}, {22, 11}}",
+  "glyphBounds": "{{1, 2}, {39, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Car",
+  "name": "On car",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -105,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DA25121B-9E47-431C-8E44-145E24D707CD",
+    "do_objectID": "C1DA6322-AF6A-4177-9D0D-3B78C77C129B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -121,22 +122,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.02584352355072464,
-          "green": 0.02584352355072464,
-          "red": 0.02584352355072464
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Medium",
+            "name": "Gotham-XLightItalic",
             "size": 13
           }
         },
-        "kerning": -0.455,
+        "kerning": -0.5,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "paragraphSpacing": 0.1
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -144,12 +146,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  }
+  "textBehaviour": 2
 }
