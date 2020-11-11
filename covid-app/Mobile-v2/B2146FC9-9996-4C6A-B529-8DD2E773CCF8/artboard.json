@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 766,
+    "height": 791,
     "width": 375,
     "x": 740,
     "y": -334
@@ -180,6 +180,10 @@
     {
       "class": "shapePath",
       "id": "88BB0ABF-97BD-4207-9C12-31B6CC175A42"
+    },
+    {
+      "class": "text",
+      "id": "5FA505B1-4045-4E8E-80C7-84F727C5339F"
     }
   ],
   "name": "New reservation",

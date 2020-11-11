@@ -83,11 +83,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 40,
+        "length": 1995,
         "location": 83
       }
     ],
-    "string": "All the information that I said is true, I also agree with the terms and conditions and I know the risk realted to COVID-19"
+    "string": "All the information that I said is true, I also agree with the terms and conditions and I know the risk realted to COVID-19\n\nAll the information that I said is true, I also agree with the terms and conditions and I know the risk realted to COVID-19\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu tempus sem. Quisque imperdiet dolor quis ex lacinia, id feugiat dui aliquet. Vestibulum sollicitudin dolor sed tellus dapibus, vitae interdum diam pellentesque. Sed tellus ligula, rhoncus vitae feugiat nec, imperdiet eu orci. Proin sit amet aliquet ex, et scelerisque mauris. Integer pharetra tortor quis vulputate auctor. Quisque porta ex sed libero egestas, vel feugiat risus malesuada. Morbi finibus sit amet dui non mattis. Vivamus mollis, neque a sodales malesuada, lorem justo dictum nisl, id mattis tellus ipsum quis nisi.\n\nNullam malesuada consectetur congue. In leo elit, aliquam sed scelerisque at, finibus viverra lacus. Quisque finibus purus eros, et sollicitudin urna vehicula vel. Integer eros tellus, tincidunt id est at, accumsan auctor sapien. Donec aliquet luctus tortor, ac eleifend lorem rutrum nec. Sed rhoncus turpis nec sapien placerat, sed scelerisque sem finibus. Phasellus vel molestie purus, eu tincidunt justo. Etiam lacinia nec leo at euismod. Proin volutpat eget nisl quis lacinia. Aliquam sed arcu auctor lectus ullamcorper ultricies in quis nunc. Aenean scelerisque quam sapien, quis tincidunt mauris bibendum at.\n\nPellentesque fringilla massa in dolor dignissim viverra. Integer vulputate laoreet felis ac auctor. Pellentesque pulvinar pretium purus, a convallis est blandit at. Proin vehicula, ante sollicitudin vulputate elementum, turpis metus rutrum mauris, dapibus sagittis turpis magna sit amet turpis. Vivamus tempor tincidunt accumsan. Nunc bibendum nisl at ante pretium commodo. Etiam et nisl et dui venenatis accumsan. Nam malesuada ullamcorper accumsan.\n\nNulla facilisi. Nullam dignissim sollicitudin odio a rutrum. Proin pulvinar lacus lacinia, vehicula purus quis, dapibus felis. Praesent facilisis aliquet felis sit "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -106,12 +106,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 531,
+    "height": 328,
     "width": 288,
     "x": 38,
     "y": 202
   },
-  "glyphBounds": "{{0, 4}, {278, 49}}",
+  "glyphBounds": "{{0, 4}, {283, 1024}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -120,7 +120,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "All the information Copy",
+  "name": "All the information",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
