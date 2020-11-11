@@ -9,36 +9,90 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2552649456521739,
-            "green": 0.2552649456521739,
-            "red": 0.2552649456521739
+            "blue": 0.3842278079710145,
+            "green": 0.3842278079710145,
+            "red": 0.3842278079710145
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Medium",
-              "size": 14
+              "name": "Helvetica",
+              "size": 15
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 63,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3842278079710145,
+            "green": 0.3842278079710145,
+            "red": 0.3842278079710145
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Helvetica-Bold",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           },
           "strikethroughStyle": 0,
           "textStyleVerticalAlignmentKey": 0,
-          "underlineStyle": 0
+          "underlineStyle": 1
         },
-        "length": 5,
-        "location": 0
+        "length": 20,
+        "location": 63
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3842278079710145,
+            "green": 0.3842278079710145,
+            "red": 0.3842278079710145
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Helvetica",
+              "size": 15
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 40,
+        "location": 83
       }
     ],
-    "string": "Other"
+    "string": "All the information that I said is true, I also agree with the terms and conditions and I know the risk realted to COVID-19"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4956CC4C-1C7D-4352-A3CF-C77E7D9483A8",
+  "do_objectID": "577627A4-D66E-4E52-A813-542464E6EEAE",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +106,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 158,
-    "x": 194.5,
-    "y": 654
+    "height": 65,
+    "width": 288,
+    "x": 57,
+    "y": 626
   },
-  "glyphBounds": "{{59, 0}, {40, 12}}",
+  "glyphBounds": "{{0, 4}, {278, 49}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,9 +120,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Other",
+  "name": "All the information",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -106,7 +160,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AF27335C-B5FC-4F24-9A5F-CCD64F0EA0DD",
+    "do_objectID": "548DA028-612D-4E1E-93AC-30843CCBE380",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -122,25 +176,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2552649456521739,
-          "green": 0.2552649456521739,
-          "red": 0.2552649456521739
+          "blue": 0.3842278079710145,
+          "green": 0.3842278079710145,
+          "red": 0.3842278079710145
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Medium",
-            "size": 14
+            "name": "Helvetica",
+            "size": 15
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         },
-        "strikethroughStyle": 0,
-        "textStyleVerticalAlignmentKey": 0,
-        "underlineStyle": 0
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },

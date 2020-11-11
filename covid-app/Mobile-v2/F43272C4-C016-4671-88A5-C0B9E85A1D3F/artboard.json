@@ -148,10 +148,6 @@
     {
       "class": "shapePath",
       "id": "1025469C-0473-4F80-91F4-5392BE8E872E"
-    },
-    {
-      "class": "group",
-      "id": "2D2AC0F4-309C-468A-8FBA-4F1A0500BA40"
     }
   ],
   "name": "invalid-path",
