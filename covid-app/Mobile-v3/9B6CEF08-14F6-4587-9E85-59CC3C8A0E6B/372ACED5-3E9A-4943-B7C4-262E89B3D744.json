@@ -46,7 +46,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Book",
+              "name": "GothamBook",
               "size": 14
             }
           },
@@ -88,7 +88,7 @@
     "x": 28,
     "y": 496
   },
-  "glyphBounds": "{{10, 6}, {307, 90}}",
+  "glyphBounds": "{{9, 6}, {309, 90}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

@@ -129,6 +129,16 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "3863DD3C-01DA-4D29-AF82-766BB4C00675",
+      "fontFamilyName": "Gotham Book",
+      "fontFileName": "GothamBook.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "GothamBook"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "3ACAF1AB-48A3-4F17-A2AA-F561BE0999D7",
       "fontFamilyName": "SF Pro Text",
       "fontFileName": "SF-Pro-Text-Black.otf",
@@ -449,6 +459,16 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "A3B0F5B3-DDF9-4613-9E64-EB48D95CE04E",
+      "fontFamilyName": "Gotham Black",
+      "fontFileName": "GothamBlack-Italic 2.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "GothamBlack-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "A5E62E46-D66A-4A09-AC56-1140FDA7C61F",
       "fontFamilyName": "SF Pro Text",
       "fontFileName": "SF-Pro-Text-LightItalic.otf",
@@ -549,6 +569,16 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "C8A628A3-BED8-4635-8BB9-82ECBA12356A",
+      "fontFamilyName": "Gotham Book",
+      "fontFileName": "Gotham-BookItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "GothamBook-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "C93065E3-3507-4D36-BA9C-695CC9A17E17",
       "fontFamilyName": "SF Pro Display",
       "fontFileName": "SF-Pro-Display-Thin.otf",
@@ -575,6 +605,16 @@
       "options": 2,
       "postscriptNames": [
         "Gotham-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D8904AA2-D6E7-4AC0-863F-338422301EC3",
+      "fontFamilyName": "Gotham Black",
+      "fontFileName": "GothamBlack.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "GothamBlack"
       ]
     },
     {
@@ -55398,6 +55438,7 @@
     "Mobile-v3",
     "Desktop",
     "Desktop-v2",
+    "Desktop-v3",
     "Symbols"
   ],
   "sharedSwatches": {

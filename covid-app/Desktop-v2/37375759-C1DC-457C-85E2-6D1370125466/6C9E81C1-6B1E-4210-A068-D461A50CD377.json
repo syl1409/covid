@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica-Bold",
+              "name": "GothamBlack",
               "size": 44
             }
           },
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 53,
+    "height": 39,
     "width": 347,
     "x": 781,
-    "y": 229
+    "y": 211
   },
-  "glyphBounds": "{{64, 10}, {220, 34}}",
+  "glyphBounds": "{{56, -1}, {234, 34}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -127,7 +127,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica-Bold",
+            "name": "GothamBlack",
             "size": 44
           }
         },
