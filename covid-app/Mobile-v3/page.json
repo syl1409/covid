@@ -57,6 +57,18 @@
     },
     {
       "class": "artboard",
+      "id": "DB252F28-0167-48EA-8D02-8A8BF6CB9630"
+    },
+    {
+      "class": "artboard",
+      "id": "FCF6E6AB-F429-4C48-9DB9-AEDDCF4877E9"
+    },
+    {
+      "class": "artboard",
+      "id": "53636B76-FD3D-405D-A911-431292C8AF5E"
+    },
+    {
+      "class": "artboard",
       "id": "BA03D6B9-E121-4504-BA5B-A58CB6C61ABB"
     },
     {
@@ -94,6 +106,10 @@
     {
       "class": "artboard",
       "id": "66315B95-3883-43B1-8EE1-4995EA3A43DC"
+    },
+    {
+      "class": "artboard",
+      "id": "BC0C8A8D-74B8-4B2E-8D3F-2D660EBFDF0C"
     }
   ],
   "name": "Mobile-v3",
