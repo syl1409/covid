@@ -1,0 +1,188 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "52D4A69D-B964-45CF-A0D4-48AEA68DA6C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 295,
+    "width": 164,
+    "x": 1111,
+    "y": 481
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AF30B61B-139E-4575-BD4B-9F88FED7776D"
+    },
+    {
+      "class": "rectangle",
+      "id": "66B55B43-FAE4-41D4-AA7D-33639544FD82"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DEF1C6D4-A192-4999-B90A-5E54B731C930"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "00095653-8511-4503-B076-4318ECC979EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2DFD0482-5DF5-4EDB-82AE-7402171D44C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "42974815-8E9E-44E7-8434-DA99AB2159D1"
+    },
+    {
+      "class": "text",
+      "id": "602B1774-1676-4E69-ACB3-6784C4BFC6A0"
+    },
+    {
+      "class": "text",
+      "id": "B5714EA5-C6F2-44CE-9C3E-58B5A81DF6C4"
+    },
+    {
+      "class": "text",
+      "id": "8FFC15CB-1CCD-4522-B053-BB95F6CEB8EF"
+    },
+    {
+      "class": "text",
+      "id": "C4F6C1DB-247C-4F8B-BB9F-0EDC6E0DD463"
+    },
+    {
+      "class": "text",
+      "id": "922CAC20-F953-4675-91CC-48B3AB4CE86B"
+    },
+    {
+      "class": "text",
+      "id": "7DAEF6D1-8647-4F4C-8E59-CB3AF781BBF1"
+    },
+    {
+      "class": "text",
+      "id": "A37F8287-0D8E-4260-A820-CE3B46854D79"
+    },
+    {
+      "class": "text",
+      "id": "48C10A48-0001-4E45-8B25-5BF0AB417BEA"
+    },
+    {
+      "class": "text",
+      "id": "039DF365-34BB-4270-8D62-F6F37BBE7BE8"
+    },
+    {
+      "class": "shapePath",
+      "id": "B246596C-EA18-4901-82AE-C4A36AC705E1"
+    },
+    {
+      "class": "shapePath",
+      "id": "11765264-4497-45DE-B05D-75BCDDB458B9"
+    },
+    {
+      "class": "shapePath",
+      "id": "648DF795-E436-4314-A5B4-820AF560ADE1"
+    },
+    {
+      "class": "shapePath",
+      "id": "1B653167-5071-4C5C-9F8A-12424DF77CC3"
+    },
+    {
+      "class": "shapePath",
+      "id": "72C60A10-A4EB-4068-BD56-473AFB9FA0DD"
+    },
+    {
+      "class": "shapePath",
+      "id": "364F1A66-8374-4D91-A231-0F422F592BF0"
+    },
+    {
+      "class": "shapePath",
+      "id": "FCE3031D-624C-40C9-9F6C-19D360825568"
+    },
+    {
+      "class": "oval",
+      "id": "C193E413-EC11-4630-8E8D-2CB9F9E21C86"
+    },
+    {
+      "class": "oval",
+      "id": "207FF697-B19E-43EC-ABCE-8C478F182431"
+    },
+    {
+      "class": "oval",
+      "id": "3010EFD2-6FD0-44BE-86CC-2FD18E6AA802"
+    }
+  ],
+  "name": "Scheddule LatPanel",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "2A3682A3-D749-43A2-8BAB-AA8D82DC684B",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

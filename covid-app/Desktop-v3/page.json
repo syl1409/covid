@@ -41,167 +41,55 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "9C0E0367-ACCD-49A2-BF27-64D1A268FAE9"
+      "id": "694CE605-4198-4B3A-ACBB-76142585283D"
     },
     {
       "class": "artboard",
-      "id": "41ECA274-49ED-42B1-917A-32AE5791AE76"
+      "id": "DCDB3189-75B5-4227-95AE-1D8FB4C06967"
     },
     {
       "class": "artboard",
-      "id": "F4051E87-FE6C-43FE-B810-F10B9775A62B"
+      "id": "3F8B2E61-DE3E-42C1-A122-097DF489D596"
     },
     {
       "class": "artboard",
-      "id": "FD143BEA-C130-4BA2-95DD-90361DE31A0C"
+      "id": "4C644FF0-7F51-4F7C-A7C2-DC83B6338482"
     },
     {
       "class": "artboard",
-      "id": "F6DA1A05-37D2-47BD-83D0-D477911C0868"
+      "id": "9C7EA0E1-B716-443A-BB99-01033AAF1BBB"
     },
     {
       "class": "artboard",
-      "id": "AFD40B8E-0446-4E2F-9491-4337C7397524"
+      "id": "9F3E2B13-B6C8-418A-92EE-EDB490DFE19C"
     },
     {
       "class": "artboard",
-      "id": "F2D0121D-12E2-4626-A5F6-AD22F2315EFE"
+      "id": "B45FF0CE-B07C-40D6-9B65-619F9E5278EA"
     },
     {
       "class": "artboard",
-      "id": "03DA9DB8-F3FE-4767-909C-CA0451EA4AD9"
+      "id": "4DC4AD44-F75E-4B18-8314-94B1F63E12E8"
     },
     {
       "class": "artboard",
-      "id": "D4DDD85A-6239-42C7-8481-D5B554642DDF"
+      "id": "086AFA7D-95C7-40E5-9AAA-145620FBA989"
     },
     {
       "class": "artboard",
-      "id": "5B253924-6253-424A-9574-23FB8B7C28BC"
+      "id": "51F6FBEF-823C-4E44-AB89-EAFC7B124AFF"
     },
     {
       "class": "artboard",
-      "id": "EE71FF39-2180-49A2-9CF5-D78203BDDB57"
+      "id": "898E6EC9-D13A-4865-81F8-2A1702F17772"
     },
     {
       "class": "artboard",
-      "id": "3A34ED5A-2E4B-41C7-AACA-7BF29D09FFF2"
+      "id": "D8CDACB9-82ED-44B7-B22C-4E08ABE66AD9"
     },
     {
       "class": "artboard",
-      "id": "723179C9-54AD-4080-8B1F-B26204685073"
-    },
-    {
-      "class": "text",
-      "id": "C75BDFED-9960-45C2-859B-1827D6032CD6"
-    },
-    {
-      "class": "text",
-      "id": "EA60D03E-E60D-4C84-9908-CFFDEC749C3E"
-    },
-    {
-      "class": "rectangle",
-      "id": "3E0FCE6E-DDE0-4197-B78E-EC52F7D9ED24"
-    },
-    {
-      "class": "rectangle",
-      "id": "CD46853F-A135-4E66-B3C9-CCF2384EA28A"
-    },
-    {
-      "class": "rectangle",
-      "id": "EAFCCABA-179B-4F46-93CA-A3896AF5D5A1"
-    },
-    {
-      "class": "oval",
-      "id": "8D0DE6A3-E9DE-4356-97EF-914E8C16BCEE"
-    },
-    {
-      "class": "text",
-      "id": "BC24C49B-B127-47FF-9952-DFB7607F566E"
-    },
-    {
-      "class": "text",
-      "id": "59CDDEF4-9614-47AA-9A8C-A66EBB3BFEE1"
-    },
-    {
-      "class": "text",
-      "id": "ADF5E22D-7EE7-4323-ACBB-A7791FEB23BA"
-    },
-    {
-      "class": "text",
-      "id": "B5AB0E6A-E803-4FF3-8FB1-7D9D368E3BCF"
-    },
-    {
-      "class": "text",
-      "id": "2F693018-2E54-425C-8561-5FF8DBF843ED"
-    },
-    {
-      "class": "text",
-      "id": "3CB38F7A-53A9-4BA0-9EC1-42F9C79F3CA7"
-    },
-    {
-      "class": "text",
-      "id": "4E75C273-1752-49C1-8388-723AF8D3CC54"
-    },
-    {
-      "class": "text",
-      "id": "836430D9-3DE0-46B1-BFE8-AE52D2AB5D18"
-    },
-    {
-      "class": "text",
-      "id": "5CC90CBA-F3B3-4235-8A60-590812B5DC6C"
-    },
-    {
-      "class": "text",
-      "id": "18EDD4AE-3B8C-40B6-86D5-9325655CAA00"
-    },
-    {
-      "class": "text",
-      "id": "9AD82476-5529-43DA-8E74-CA2931483781"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DC8F5525-E3CA-47CC-9722-3A23A05704BA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C9E0E385-08DF-4294-8E70-A82ECD22D9E7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BDAFBD4D-AC56-4A26-A4EC-220F319164A2"
-    },
-    {
-      "class": "text",
-      "id": "9C98D410-0F8A-4EED-8951-F8F6816DC347"
-    },
-    {
-      "class": "oval",
-      "id": "731B05B9-CE35-46EC-B558-057ECD97ADB3"
-    },
-    {
-      "class": "oval",
-      "id": "B80C9F90-D620-4793-8251-AE76CE66EA23"
-    },
-    {
-      "class": "oval",
-      "id": "0883F613-0867-4727-9BFC-A1E70FC02F40"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E287B1E1-5D50-4CB3-B697-4F1C21FD769C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "549B8FB2-5828-4868-ADE7-ACD2A07F6557"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EE242685-5430-4B7D-B036-D9090920C0FC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "025C979A-687E-4E6B-9B3B-05024C1F2D07"
+      "id": "E61A0FF0-DB62-488A-8DCA-F874DD02F869"
     }
   ],
   "name": "Desktop-v3",
