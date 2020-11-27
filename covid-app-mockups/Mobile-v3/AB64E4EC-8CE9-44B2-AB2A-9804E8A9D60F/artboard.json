@@ -50,6 +50,26 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "2B9B1D78-8402-489F-A0A9-513CB00D56E6"
+    },
+    {
+      "class": "oval",
+      "id": "63F5ABD7-27E9-4C34-A9CB-60DF671B3ACD"
+    },
+    {
+      "class": "oval",
+      "id": "B8D3CD6B-B94B-4C6B-91F0-AE5082DAD0F8"
+    },
+    {
+      "class": "oval",
+      "id": "F301DB5F-8920-422B-B3AE-92C631460BA7"
+    },
+    {
+      "class": "oval",
+      "id": "75F6E3EF-5DD4-405C-82BD-E9F480C0D721"
+    },
+    {
       "class": "group",
       "id": "0759CD0E-97F4-4FAA-BEB3-1366E5FB8EBA"
     },
@@ -58,20 +78,12 @@
       "id": "A48E69DB-912C-4DEE-9533-F1FC65299000"
     },
     {
-      "class": "symbolInstance",
-      "id": "0070B0E9-4256-44B9-931B-B5EC3F5FE8D3"
-    },
-    {
       "class": "text",
       "id": "0CD065AA-1960-4900-AE46-A7CCB8ADA5A1"
     },
     {
-      "class": "group",
-      "id": "4CFE069D-4690-430F-8C8A-8FC9CB9E2C79"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2B9B1D78-8402-489F-A0A9-513CB00D56E6"
+      "class": "bitmap",
+      "id": "5A28E7BB-1A56-4A2E-9F03-483089AC1E84"
     }
   ],
   "name": "login",

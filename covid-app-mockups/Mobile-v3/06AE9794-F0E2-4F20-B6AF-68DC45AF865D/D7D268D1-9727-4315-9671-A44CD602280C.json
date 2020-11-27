@@ -9,21 +9,23 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.2241281702898551,
+            "green": 0.2241281702898551,
+            "red": 0.2241281702898551
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Bold",
+              "name": "Gotham-Black",
               "size": 24
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -50,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1,
-    "width": 183,
-    "x": 16,
-    "y": 255
+    "height": 30,
+    "width": 181,
+    "x": 96,
+    "y": 174
   },
-  "glyphBounds": "{{0, 1}, {180, 19}}",
+  "glyphBounds": "{{0, 6}, {180, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -120,21 +122,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.2241281702898551,
+          "green": 0.2241281702898551,
+          "red": 0.2241281702898551
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Bold",
+            "name": "Gotham-Black",
             "size": 24
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 30,
+          "minimumLineHeight": 30
         },
         "textStyleVerticalAlignmentKey": 0
       },

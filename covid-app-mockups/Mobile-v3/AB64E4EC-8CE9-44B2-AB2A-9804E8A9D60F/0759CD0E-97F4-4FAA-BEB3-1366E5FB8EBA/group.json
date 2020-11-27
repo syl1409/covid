@@ -23,22 +23,22 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "text",
-      "id": "50F3FF99-625D-4736-B161-6F1F94364151"
-    },
     {
       "class": "rectangle",
       "id": "D4CEAB79-541B-46C5-8635-0990AEB692C9"
+    },
+    {
+      "class": "text",
+      "id": "50F3FF99-625D-4736-B161-6F1F94364151"
     }
   ],
   "name": "CTA",

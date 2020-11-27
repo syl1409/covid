@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica-Bold",
-              "size": 40
+              "name": "Gotham-Black",
+              "size": 45
             }
           },
           "paragraphStyle": {
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 112,
-    "x": 30.5,
-    "y": 287
+    "height": 50,
+    "width": 133,
+    "x": 29,
+    "y": 308
   },
-  "glyphBounds": "{{3, 10}, {106, 30}}",
+  "glyphBounds": "{{2, 9}, {129, 34}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -120,15 +120,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica-Bold",
-            "size": 40
+            "name": "Gotham-Black",
+            "size": 45
           }
         },
         "paragraphStyle": {

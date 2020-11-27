@@ -18,7 +18,7 @@
     "height": 20,
     "width": 20,
     "x": 260,
-    "y": 187.5555555555555
+    "y": 105.5555555555555
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -41,7 +41,7 @@
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {

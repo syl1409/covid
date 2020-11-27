@@ -40,16 +40,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "2CC4CABB-B23C-4627-96F1-E7115A7842A1"
+    },
+    {
       "class": "artboard",
       "id": "AB64E4EC-8CE9-44B2-AB2A-9804E8A9D60F"
     },
     {
       "class": "artboard",
       "id": "7EB91D5D-2755-4CB9-89E1-3E11156740D0"
-    },
-    {
-      "class": "artboard",
-      "id": "418BFA35-62C3-49A7-8003-A27B7B35ED71"
     },
     {
       "class": "artboard",
