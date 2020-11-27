@@ -30,8 +30,38 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 55,
+        "length": 39,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3842278079710145,
+            "green": 0.3842278079710145,
+            "red": 0.3842278079710145
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Gotham-Medium",
+              "size": 15
+            }
+          },
+          "kerning": -0.7999999999999999,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 16,
+        "location": 39
       }
     ],
     "string": "You can schedule between the following next 7 work days"
@@ -58,7 +88,7 @@
     "x": 54,
     "y": 392
   },
-  "glyphBounds": "{{6, 5}, {270, 33}}",
+  "glyphBounds": "{{6, 0}, {270, 33}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

@@ -24,6 +24,8 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 17,
+            "minimumLineHeight": 17,
             "paragraphSpacing": 0.1
           },
           "textStyleVerticalAlignmentKey": 0
@@ -32,7 +34,7 @@
         "location": 0
       }
     ],
-    "string": "logout"
+    "string": "Logout"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 17,
-    "width": 57,
+    "width": 63,
     "x": 67,
     "y": 325
   },
-  "glyphBounds": "{{1, 1}, {56, 16}}",
+  "glyphBounds": "{{1, 0}, {61, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "logout",
+  "name": "Logout",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -136,6 +138,8 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 17,
+          "minimumLineHeight": 17,
           "paragraphSpacing": 0.1
         },
         "textStyleVerticalAlignmentKey": 0

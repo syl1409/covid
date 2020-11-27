@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -24,14 +33,14 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 740,
-    "y": -1287
+    "x": 3387,
+    "y": -334
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -208,6 +217,14 @@
     {
       "class": "symbolInstance",
       "id": "58AE1FFF-01DD-4A55-8F71-0A7CDC1CB759"
+    },
+    {
+      "class": "oval",
+      "id": "BCAA1F81-A44C-4B17-90CB-928E0D7C7366"
+    },
+    {
+      "class": "text",
+      "id": "CA89CEED-39E7-4A23-86DF-F194FFAC60B7"
     }
   ],
   "name": "Menu",

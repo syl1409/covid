@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -24,14 +33,14 @@
     "constrainProportions": false,
     "height": 714,
     "width": 375,
-    "x": 1141,
-    "y": 1257
+    "x": 325,
+    "y": 3114
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,7 +71,7 @@
       "id": "1D0A60D3-A1A5-41B9-B4D3-6C5C99152A39"
     }
   ],
-  "name": "New reservation Copy 2",
+  "name": "scan",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

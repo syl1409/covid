@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
+    "height": 15,
     "width": 35,
     "x": 36.5,
-    "y": 113
+    "y": 123
   },
-  "glyphBounds": "{{1, 0}, {33, 12}}",
+  "glyphBounds": "{{1, -11}, {34, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -142,7 +142,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 2,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

@@ -25,6 +25,8 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 13,
+            "minimumLineHeight": 13,
             "paragraphSpacing": 0.1
           },
           "textStyleVerticalAlignmentKey": 0
@@ -138,6 +140,8 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 13,
+          "minimumLineHeight": 13,
           "paragraphSpacing": 0.1
         },
         "textStyleVerticalAlignmentKey": 0

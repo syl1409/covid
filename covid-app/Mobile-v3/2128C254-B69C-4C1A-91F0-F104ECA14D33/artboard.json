@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -24,14 +33,14 @@
     "constrainProportions": false,
     "height": 756,
     "width": 375,
-    "x": 1129,
-    "y": 4548
+    "x": 1173,
+    "y": 1202
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -128,9 +137,21 @@
     {
       "class": "symbolInstance",
       "id": "5498BE82-3BD5-4D7A-AA1F-E0E116FC3801"
+    },
+    {
+      "class": "oval",
+      "id": "37B9EC57-9915-44A7-9678-7527C1121ED3"
+    },
+    {
+      "class": "shapePath",
+      "id": "746F9C36-4C46-40F3-99A8-EF4FC34F7438"
+    },
+    {
+      "class": "shapePath",
+      "id": "3D45653D-F617-4759-8D35-2B85D2E432B0"
     }
   ],
-  "name": "Result Copy",
+  "name": "Result-rejected",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

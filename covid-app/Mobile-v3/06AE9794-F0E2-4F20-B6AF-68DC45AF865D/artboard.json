@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -30,8 +39,8 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -240,6 +249,14 @@
     {
       "class": "shapePath",
       "id": "C0E13944-D64F-49D5-AD79-109386532110"
+    },
+    {
+      "class": "oval",
+      "id": "80433127-5DDA-4C99-BC44-5A3E597E6B4C"
+    },
+    {
+      "class": "text",
+      "id": "961DED7E-3FF6-4575-B39E-5A8095273F61"
     }
   ],
   "name": "New reservation",

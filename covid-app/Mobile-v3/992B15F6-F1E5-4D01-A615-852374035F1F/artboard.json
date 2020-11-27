@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -30,7 +39,7 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -80,6 +89,14 @@
     {
       "class": "group",
       "id": "AF1F74C9-E2F9-4F0A-8820-46A787911805"
+    },
+    {
+      "class": "oval",
+      "id": "06BA5872-5F2C-4E73-A19D-6293165C98D4"
+    },
+    {
+      "class": "text",
+      "id": "3E3EC69C-D5FD-48EE-BD6A-CF674112EB16"
     },
     {
       "class": "text",
@@ -540,6 +557,18 @@
     {
       "class": "rectangle",
       "id": "DB2FF35B-2E16-4187-B799-8F20FFD6950C"
+    },
+    {
+      "class": "oval",
+      "id": "AEEEFD03-9AB4-49DD-A84C-754D3849BCDB"
+    },
+    {
+      "class": "oval",
+      "id": "E994DF0C-3396-4BF3-8E0C-8B354AB70FA5"
+    },
+    {
+      "class": "oval",
+      "id": "B814ED24-9C0B-4BBA-B00D-24A0EA6762A8"
     },
     {
       "class": "rectangle",

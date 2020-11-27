@@ -33,14 +33,14 @@
     "constrainProportions": false,
     "height": 580,
     "width": 641,
-    "x": 696,
-    "y": 5618
+    "x": 740,
+    "y": 2272
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -95,7 +95,7 @@
       "id": "D8E525B5-3B65-4395-B5D1-E56AD5E4C6F1"
     }
   ],
-  "name": "login",
+  "name": "Email",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

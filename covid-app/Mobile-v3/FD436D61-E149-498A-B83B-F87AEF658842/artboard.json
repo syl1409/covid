@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -30,8 +39,8 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -68,6 +77,14 @@
     {
       "class": "group",
       "id": "F4203D6D-1BA6-4324-91E7-E01099E01694"
+    },
+    {
+      "class": "oval",
+      "id": "D15A7E7E-07EE-4F1E-A0AC-5153443FA04F"
+    },
+    {
+      "class": "text",
+      "id": "C06F7263-8771-45DE-841B-8393BC763481"
     },
     {
       "class": "group",

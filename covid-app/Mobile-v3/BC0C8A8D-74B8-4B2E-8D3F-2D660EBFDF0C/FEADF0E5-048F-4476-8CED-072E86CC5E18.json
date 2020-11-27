@@ -25,6 +25,8 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 13,
+            "minimumLineHeight": 13,
             "paragraphSpacing": 0.1
           },
           "textStyleVerticalAlignmentKey": 0
@@ -54,8 +56,8 @@
     "constrainProportions": false,
     "height": 15,
     "width": 171,
-    "x": 119,
-    "y": 365
+    "x": 107,
+    "y": 387
   },
   "glyphBounds": "{{0, 0}, {21, 11}}",
   "hasClippingMask": false,
@@ -138,6 +140,8 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 13,
+          "minimumLineHeight": 13,
           "paragraphSpacing": 0.1
         },
         "textStyleVerticalAlignmentKey": 0

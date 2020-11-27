@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -24,14 +33,14 @@
     "constrainProportions": false,
     "height": 714,
     "width": 375,
-    "x": 1597,
-    "y": 1257
+    "x": 781,
+    "y": 3114
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -154,7 +163,7 @@
       "id": "EA53E533-D156-4532-82BB-0084BB79CD0F"
     }
   ],
-  "name": "New reservation Copy 3",
+  "name": "Add-log",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
