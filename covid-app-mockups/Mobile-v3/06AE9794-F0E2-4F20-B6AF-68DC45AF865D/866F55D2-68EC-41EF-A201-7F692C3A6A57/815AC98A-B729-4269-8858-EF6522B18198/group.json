@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 82,
-    "width": 79,
-    "x": 13,
+    "height": 92,
+    "width": 91,
+    "x": 5,
     "y": 8
   },
   "groupLayout": {
@@ -30,12 +30,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "92E1B17B-56A4-4271-B2F5-D2071FFCBA4D"
-    },
     {
       "class": "bitmap",
       "id": "9701C728-B050-4490-9372-09248C4D987C"
@@ -79,7 +75,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.6842977834302325
+      "opacity": 0.9330032703488372
     },
     "do_objectID": "EB7B3F74-EEBB-47DC-9DC9-352E48514157",
     "endMarkerType": 0,

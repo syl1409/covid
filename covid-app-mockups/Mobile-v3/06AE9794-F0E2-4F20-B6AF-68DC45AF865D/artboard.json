@@ -114,14 +114,6 @@
       "id": "9C2358F7-1B0A-461F-B999-DCF9EB136487"
     },
     {
-      "class": "oval",
-      "id": "A519B677-6A4E-4E80-9295-2D9FCBED1D43"
-    },
-    {
-      "class": "oval",
-      "id": "2BA79AAF-EB06-4CDD-9BD0-E7E9C1D0D633"
-    },
-    {
       "class": "text",
       "id": "45714EF1-91CE-4C64-A17C-FC0C4F3D35A1"
     },
@@ -152,6 +144,14 @@
     {
       "class": "shapePath",
       "id": "E9E694CC-9827-44EF-84DD-7F082C8002E0"
+    },
+    {
+      "class": "group",
+      "id": "8891DC4C-1D5F-4AB0-94AF-4F847423ECA0"
+    },
+    {
+      "class": "group",
+      "id": "93866581-1245-4AC8-8E7C-8D7776E213BE"
     }
   ],
   "name": "New reservation",

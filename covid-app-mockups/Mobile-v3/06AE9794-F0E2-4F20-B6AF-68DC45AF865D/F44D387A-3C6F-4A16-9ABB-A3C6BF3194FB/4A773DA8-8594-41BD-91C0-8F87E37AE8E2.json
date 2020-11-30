@@ -35,7 +35,7 @@
         "location": 0
       }
     ],
-    "string": "IT Support"
+    "string": "HR Support"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -59,7 +59,7 @@
     "x": 104.5,
     "y": 16
   },
-  "glyphBounds": "{{1, 0}, {85, 15}}",
+  "glyphBounds": "{{1, 0}, {93, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "IT Support",
+  "name": "HR Support",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
