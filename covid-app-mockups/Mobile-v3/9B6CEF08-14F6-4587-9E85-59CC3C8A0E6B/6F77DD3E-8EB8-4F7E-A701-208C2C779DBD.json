@@ -9,21 +9,24 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.2241281702898551,
+            "green": 0.2241281702898551,
+            "red": 0.2241281702898551,
+            "swatchID": "C6FFC7F9-B9FF-43D9-86A7-54B87B653B3E"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Bold",
+              "name": "Gotham-Ultra",
               "size": 24
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -50,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
+    "height": 30,
     "width": 361,
-    "x": 5,
-    "y": 173
+    "x": 11,
+    "y": 171
   },
-  "glyphBounds": "{{12, 1}, {336, 22}}",
+  "glyphBounds": "{{10, 9}, {340, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,6 +72,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "4E66344E-777F-4845-AF36-65BB550DEA1C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -120,21 +124,24 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.2241281702898551,
+          "green": 0.2241281702898551,
+          "red": 0.2241281702898551,
+          "swatchID": "C6FFC7F9-B9FF-43D9-86A7-54B87B653B3E"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Bold",
+            "name": "Gotham-Ultra",
             "size": 24
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 30,
+          "minimumLineHeight": 30
         },
         "textStyleVerticalAlignmentKey": 0
       },
