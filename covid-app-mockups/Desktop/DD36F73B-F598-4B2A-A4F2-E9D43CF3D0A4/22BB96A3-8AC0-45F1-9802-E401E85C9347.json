@@ -18,7 +18,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Gotham-Ultra",
-              "size": 18
+              "size": 21
             }
           },
           "paragraphStyle": {
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 30,
-    "width": 85,
-    "x": 130,
-    "y": 490
+    "width": 99,
+    "x": 134,
+    "y": 357
   },
-  "glyphBounds": "{{-1, 10}, {86, 15}}",
+  "glyphBounds": "{{-1, 10}, {100, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -105,7 +105,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.4432003997093023
+      "opacity": 1
     },
     "do_objectID": "9122812B-C8BC-474C-93D7-B03E766152A1",
     "endMarkerType": 0,
@@ -132,7 +132,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Gotham-Ultra",
-            "size": 18
+            "size": 21
           }
         },
         "paragraphStyle": {

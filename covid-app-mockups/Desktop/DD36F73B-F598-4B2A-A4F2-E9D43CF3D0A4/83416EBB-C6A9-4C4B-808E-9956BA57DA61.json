@@ -18,7 +18,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Gotham-Ultra",
-              "size": 21
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -55,10 +55,10 @@
     "constrainProportions": false,
     "height": 30,
     "width": 337,
-    "x": 132,
-    "y": 367
+    "x": 123,
+    "y": 247
   },
-  "glyphBounds": "{{0, 10}, {115, 17}}",
+  "glyphBounds": "{{0, 10}, {99, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -132,7 +132,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Gotham-Ultra",
-            "size": 21
+            "size": 18
           }
         },
         "paragraphStyle": {

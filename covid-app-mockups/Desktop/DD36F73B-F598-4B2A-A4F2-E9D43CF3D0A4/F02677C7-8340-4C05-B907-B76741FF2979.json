@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 13,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Welcome Jhon!"
+    "string": "Schedule"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 30,
-    "width": 345,
-    "x": 566,
+    "width": 206,
+    "x": 838.5,
     "y": 159
   },
-  "glyphBounds": "{{0, -3}, {343, 34}}",
+  "glyphBounds": "{{0, -3}, {205, 34}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Welcome Jhon!",
+  "name": "Schedule",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

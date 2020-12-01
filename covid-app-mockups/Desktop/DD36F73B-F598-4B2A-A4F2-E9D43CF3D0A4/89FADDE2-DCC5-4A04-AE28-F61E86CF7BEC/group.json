@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 522,
+    "height": 508,
     "width": 79,
     "x": 40,
-    "y": 360
+    "y": 249
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,11 +30,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
       "id": "0AD5C427-CF9A-4453-A295-013B75C7BF21"
+    },
+    {
+      "class": "shapePath",
+      "id": "75DA9EA5-3DD0-42BF-B6EB-2E763298ED59"
     },
     {
       "class": "oval",
@@ -62,7 +66,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "C0306552-0EBD-42B6-A7D8-36573C78610A"
+      "id": "65A51952-5B0C-441A-8F99-9236C0D8FC2A"
     },
     {
       "class": "symbolInstance",

@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,6 +61,10 @@
     {
       "class": "rectangle",
       "id": "5EF1E6BA-D35F-4D6C-90F2-E5B26D9EB742"
+    },
+    {
+      "class": "group",
+      "id": "8D5EFDEA-7EE2-4AF6-B70F-09D0712CB18E"
     },
     {
       "class": "rectangle",
@@ -95,12 +99,12 @@
       "id": "9B828B0A-2971-410B-AE20-A9902AF23C3B"
     },
     {
-      "class": "text",
-      "id": "992E79B2-8134-457A-A0E4-FAF584A0C795"
-    },
-    {
       "class": "bitmap",
       "id": "8A48A682-FA9E-4E53-BB10-7830988F4E47"
+    },
+    {
+      "class": "group",
+      "id": "1DB7C0F2-7AD2-4BEE-9C7F-17C6298B42AE"
     },
     {
       "class": "text",
@@ -167,108 +171,52 @@
       "id": "3206037B-6EFF-4322-8D88-395BA4C700D8"
     },
     {
-      "class": "group",
-      "id": "E82D5376-CA06-4167-A76C-23D735CFFBD3"
-    },
-    {
-      "class": "group",
-      "id": "76B027D7-43CC-438A-9EFE-D2484EAAEC7C"
-    },
-    {
-      "class": "group",
-      "id": "94456DB1-0194-43A4-9CBD-0522439A1437"
-    },
-    {
-      "class": "group",
-      "id": "42DEEE69-8E15-4A35-B1B0-471E15EFCC19"
-    },
-    {
-      "class": "rectangle",
-      "id": "274F6A3C-BABC-4CB5-B72A-B2FD96A0BEDB"
-    },
-    {
-      "class": "oval",
-      "id": "D5DCC2F3-CCA6-4E92-B7B0-784F343736B7"
-    },
-    {
-      "class": "text",
-      "id": "29EDC118-B82B-4708-98D8-6D0F5568788F"
-    },
-    {
-      "class": "text",
-      "id": "7FE3F5A5-B7EE-4A1C-8EBD-F139249A6645"
-    },
-    {
-      "class": "group",
-      "id": "9C93E286-4CCE-4B02-B45E-D7B5B3141854"
-    },
-    {
       "class": "text",
       "id": "F02677C7-8340-4C05-B907-B76741FF2979"
-    },
-    {
-      "class": "rectangle",
-      "id": "20E8E537-DF26-4586-956B-3101A5215D75"
-    },
-    {
-      "class": "oval",
-      "id": "87AAAF93-2932-4ED0-8222-C999DC6B7D69"
-    },
-    {
-      "class": "text",
-      "id": "4BF3CD16-8A4F-4FF6-AEDD-BEE1B0A11FE2"
-    },
-    {
-      "class": "group",
-      "id": "CEB3E490-C2E0-4332-AB86-EAA28B5B56D2"
-    },
-    {
-      "class": "shapePath",
-      "id": "B81CA3DD-0CD7-45B5-A72A-A741F3E61BF7"
-    },
-    {
-      "class": "shapePath",
-      "id": "03E9A1B8-AB4C-4AE9-83D6-51FD5284566E"
-    },
-    {
-      "class": "shapePath",
-      "id": "013F1357-3193-4F68-87DB-0B64FCA0350A"
-    },
-    {
-      "class": "shapePath",
-      "id": "156A58F4-915E-4920-B030-9B7B25937837"
-    },
-    {
-      "class": "shapePath",
-      "id": "D82B668B-91D3-44E0-8D03-F17005068474"
-    },
-    {
-      "class": "shapePath",
-      "id": "407FC86B-BA66-4833-B1C9-6F508A2A373F"
     },
     {
       "class": "shapePath",
       "id": "42AD5405-F226-477F-B40A-BAD082A3F72B"
     },
     {
-      "class": "shapePath",
-      "id": "56CF571B-3853-4FC1-A9BE-EF1169A7ED75"
+      "class": "text",
+      "id": "47D07AF3-0EC6-4C4F-B1E0-7189F2C7C9E8"
+    },
+    {
+      "class": "rectangle",
+      "id": "E5D9E784-4A0D-4DA1-B145-8C1D81E3E0B5"
+    },
+    {
+      "class": "text",
+      "id": "5EDDEF01-F896-48C9-8E02-0519B6E54F20"
+    },
+    {
+      "class": "text",
+      "id": "64D90A83-0792-4C71-ADAB-68B47504E56C"
+    },
+    {
+      "class": "rectangle",
+      "id": "4B891F6F-81FC-498B-AE45-A3264879A0C4"
+    },
+    {
+      "class": "text",
+      "id": "2526474D-900B-4BC1-8544-843D48B1AB60"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "238F2A30-2536-4B7D-9FAC-9274B1A7F07B"
     },
     {
       "class": "shapePath",
-      "id": "5E9AC2AD-4917-4BF0-BF12-C7204136D938"
+      "id": "B419146E-51F9-49CF-87C3-53598EFE8761"
     },
     {
-      "class": "shapePath",
-      "id": "F2550E09-AF82-49B7-BBC7-83E96173D83B"
+      "class": "group",
+      "id": "F1410BFC-D328-48D6-B617-B3A87B69BA6B"
     },
     {
-      "class": "shapePath",
-      "id": "455E6ACA-94E9-4802-9DFE-58E5DDF68643"
-    },
-    {
-      "class": "shapePath",
-      "id": "62A3E0CE-0F41-438C-B5AD-C285C7E0A3F2"
+      "class": "group",
+      "id": "20AF487E-93F5-417B-9EFA-8971C40B18F9"
     }
   ],
   "layout": {

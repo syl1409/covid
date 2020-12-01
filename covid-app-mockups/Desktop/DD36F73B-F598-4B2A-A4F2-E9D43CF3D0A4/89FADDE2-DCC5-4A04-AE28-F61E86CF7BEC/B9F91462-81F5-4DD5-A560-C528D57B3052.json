@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22.4,
-    "width": 23.8,
-    "x": 28.39999999999996,
-    "y": 137.7000000000001
+    "height": 40,
+    "width": 40,
+    "x": 20.39999999999986,
+    "y": 113.7000000000001
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -79,9 +79,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9019607843137255,
-          "green": 0.3529411764705885,
-          "red": 0.07058823529411765
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -135,6 +135,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "583DE1C1-1935-4A82-9DAA-D6CCC412CC9F",
+  "symbolID": "C3BC190A-53DA-4AC6-B42C-903E689ACA11",
   "verticalSpacing": 0
 }

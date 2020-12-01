@@ -214,6 +214,10 @@
       "id": "E6C53E81-42D5-4AFD-85B8-F58F7E64016F"
     },
     {
+      "class": "oval",
+      "id": "1380BC0F-F02A-46F3-BEA5-0F1A8F654CC4"
+    },
+    {
       "class": "text",
       "id": "BF0ECDAA-59D4-4576-A5B3-6D2F9D716F0E"
     },
@@ -556,6 +560,14 @@
     {
       "class": "oval",
       "id": "965A8144-3539-4C10-9422-40F168710B10"
+    },
+    {
+      "class": "oval",
+      "id": "E555DF05-1110-4DD2-9F4E-04E4E2B4CCE6"
+    },
+    {
+      "class": "oval",
+      "id": "AFA22494-FF7A-477A-BDC0-85E5FC396DFF"
     },
     {
       "class": "oval",
