@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3842278079710145,
-            "green": 0.3842278079710145,
-            "red": 0.3842278079710145
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
+              "name": "Gotham-Book",
               "size": 15
             }
           },
@@ -53,9 +53,9 @@
     "height": 30,
     "width": 273,
     "x": 131,
-    "y": 534
+    "y": 491
   },
-  "glyphBounds": "{{0, 3}, {175, 16}}",
+  "glyphBounds": "{{0, -12}, {199, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -102,7 +102,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.5085100446428571
+      "opacity": 0.5587527252906976
     },
     "do_objectID": "98A62D5D-5E69-495B-8955-EEA5ADB8A013",
     "endMarkerType": 0,
@@ -120,14 +120,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3842278079710145,
-          "green": 0.3842278079710145,
-          "red": 0.3842278079710145
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
+            "name": "Gotham-Book",
             "size": 15
           }
         },

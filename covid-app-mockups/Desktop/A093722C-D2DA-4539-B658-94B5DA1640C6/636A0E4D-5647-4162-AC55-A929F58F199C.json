@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3656872735507246,
-            "green": 0.3656872735507246,
-            "red": 0.3656872735507246
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -32,11 +32,11 @@
           "textStyleVerticalAlignmentKey": 0,
           "underlineStyle": 0
         },
-        "length": 37,
+        "length": 53,
         "location": 0
       }
     ],
-    "string": "Why you need to attend to the office?"
+    "string": "Tell us a little bit why you need to go to the office"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,12 +55,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
+    "height": 45,
     "width": 291,
     "x": 130.5,
-    "y": 441
+    "y": 361
   },
-  "glyphBounds": "{{0, 0}, {266, 15}}",
+  "glyphBounds": "{{0, 1}, {274, 30}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Why you need to atte",
+  "name": "Tell us a little bit",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -125,9 +125,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3656872735507246,
-          "green": 0.3656872735507246,
-          "red": 0.3656872735507246
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

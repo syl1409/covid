@@ -31,16 +31,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
+    "height": 983,
     "width": 1440,
-    "x": -493,
-    "y": 101
+    "x": -2358,
+    "y": -2777
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -80,7 +80,11 @@
     },
     {
       "class": "bitmap",
-      "id": "7DD22763-A051-4EDA-AA70-338065126333"
+      "id": "EDBC322F-B1ED-44EB-BFE9-9374711C6074"
+    },
+    {
+      "class": "shapePath",
+      "id": "7742EDEC-7FF1-44B5-99EB-BE27FC748CDD"
     },
     {
       "class": "group",
@@ -143,36 +147,8 @@
       "id": "8747A917-A9CA-4B34-BE86-8190855765C4"
     },
     {
-      "class": "rectangle",
-      "id": "5BB1F8BE-A60F-493F-8CB0-D98EF9B1B226"
-    },
-    {
-      "class": "rectangle",
-      "id": "A08DF831-30FB-4F78-88FB-23ED98A1D5D0"
-    },
-    {
-      "class": "text",
-      "id": "7E03295C-C6E9-4F5D-865D-AF0FC1B91BFF"
-    },
-    {
-      "class": "text",
-      "id": "FE6E2085-266B-47BD-AA49-EFB0A7323D4E"
-    },
-    {
-      "class": "text",
-      "id": "F4777615-55D6-447E-880B-F6CB478FAA30"
-    },
-    {
-      "class": "oval",
-      "id": "35733A42-529B-42C2-869D-3B13D86B649A"
-    },
-    {
       "class": "symbolInstance",
       "id": "F8E094A8-63D7-4D5C-AB1A-969FDB262C4B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "107EA932-146B-4700-ADA8-0D1661BE6BA1"
     },
     {
       "class": "symbolInstance",
@@ -187,112 +163,96 @@
       "id": "638D167A-3077-415C-AB52-B182BAD53CD3"
     },
     {
-      "class": "oval",
-      "id": "D0151D75-27C7-461C-B5E2-E37A53780ADE"
-    },
-    {
-      "class": "text",
-      "id": "1030107E-100C-4FE4-8780-7899417FC2D2"
-    },
-    {
-      "class": "rectangle",
-      "id": "8CF5B971-F640-42FC-B2E7-049DDF50FB4D"
+      "class": "group",
+      "id": "68E8C7E8-0B60-47E0-9E15-E56442EABF71"
     },
     {
       "class": "group",
-      "id": "5FA94393-9D69-4A80-A257-16B864815C79"
-    },
-    {
-      "class": "oval",
-      "id": "CD59E5BF-37B7-4521-8B07-3BE1F666AA10"
-    },
-    {
-      "class": "text",
-      "id": "68B879B7-4A78-4C08-9F79-E7C479CE4C0E"
-    },
-    {
-      "class": "text",
-      "id": "4850FC49-3DE7-47F4-8A88-BDCAC47ADF11"
-    },
-    {
-      "class": "rectangle",
-      "id": "BB72056E-6B4A-40A1-A270-5EF0686B1067"
-    },
-    {
-      "class": "oval",
-      "id": "E1718638-7D04-46E6-A0C8-94A026B3FFBA"
-    },
-    {
-      "class": "text",
-      "id": "D802A333-C27E-4598-A8A0-5C3E92722360"
-    },
-    {
-      "class": "text",
-      "id": "22D626F5-75F6-42B4-AF33-99513A0C2C70"
-    },
-    {
-      "class": "rectangle",
-      "id": "87F51F03-ABDC-4315-8DC3-A11D700F950F"
-    },
-    {
-      "class": "oval",
-      "id": "70091BC6-9B16-4964-906A-4110E97E2E60"
-    },
-    {
-      "class": "text",
-      "id": "AA08DD02-1E9F-47C6-92E7-0AFEE323C07D"
+      "id": "BBFB9915-62A5-4841-B36F-A941D0563551"
     },
     {
       "class": "group",
-      "id": "13033728-2A61-4785-A0F0-67CC019BB4FE"
+      "id": "AA24CBE1-0391-45E2-8A4C-8779D58DA9B2"
+    },
+    {
+      "class": "group",
+      "id": "6BD9FFDD-C11B-46A7-A64B-4AAD23F38A4B"
+    },
+    {
+      "class": "group",
+      "id": "B0BB1A84-9D78-4302-B5FB-0873BC75E926"
+    },
+    {
+      "class": "group",
+      "id": "2ED41ACE-8DFA-4958-BD42-E790A7716683"
     },
     {
       "class": "text",
-      "id": "5C360AD9-DE26-470A-BEAC-E96869AD3CCA"
+      "id": "ECDEF50A-0601-4D59-818A-4A7D860A5907"
     },
     {
       "class": "rectangle",
-      "id": "C06A4F55-69E6-41AA-B68A-E64418BA6C79"
+      "id": "A92CEB21-43F1-4A11-A705-271062576C13"
     },
     {
       "class": "oval",
-      "id": "3BAD80D1-717D-4B1C-88F4-3D7C954896AB"
+      "id": "5AC2F3BA-33D2-4ADF-9719-821B71316C25"
     },
     {
       "class": "text",
-      "id": "664DC04A-5B50-46E9-A849-613E320D4198"
+      "id": "B9C59B02-7C3D-444E-8663-30F8D19F8BF7"
     },
     {
       "class": "group",
-      "id": "F5178E2D-D2FC-423C-94B0-529F84024DEC"
+      "id": "8AC08137-EA63-4DE4-8662-DA49D2195670"
     },
     {
-      "class": "text",
-      "id": "C6AC40F7-6812-48DF-81E5-DE994A844E3F"
+      "class": "shapePath",
+      "id": "1D446721-1161-4BE6-9626-1AD73E6B9BB7"
     },
     {
-      "class": "rectangle",
-      "id": "A42DF994-ADB3-45DB-970E-E2F64513168C"
+      "class": "shapePath",
+      "id": "E9B94984-99EE-43B8-9ABC-D385DF20BB57"
     },
     {
-      "class": "oval",
-      "id": "5B73740D-C241-4D7C-93E8-709F8EB02874"
+      "class": "shapePath",
+      "id": "414F97DE-59BE-40AA-9CC9-02D8C3A8C12B"
     },
     {
-      "class": "text",
-      "id": "AE73BC1F-5BA5-4A97-A447-87C2D7EB92E6"
+      "class": "shapePath",
+      "id": "3A8936B1-BAEF-419E-A805-0F898B6EDB9C"
     },
     {
-      "class": "text",
-      "id": "C287E7CC-6DC2-46E6-8146-95D01DE9692F"
+      "class": "shapePath",
+      "id": "48282812-B037-4EBF-84D6-7124157D5311"
     },
     {
-      "class": "group",
-      "id": "0019D650-B472-4C17-884F-1A98A337F342"
+      "class": "shapePath",
+      "id": "5B75DD7D-02D0-431A-9BC1-FF6C4ABD53D9"
     },
     {
-      "class": "group",
-      "id": "9A2F1C06-9D2C-40C5-8198-B09756D58968"
+      "class": "shapePath",
+      "id": "E90BC380-C524-48FC-91AB-72C1ADE735CA"
+    },
+    {
+      "class": "shapePath",
+      "id": "6E8DBB77-1998-493B-AE4F-4E13FA4B336F"
+    },
+    {
+      "class": "shapePath",
+      "id": "D41EE97A-80F5-4B9D-9974-F40566E4DA35"
+    },
+    {
+      "class": "shapePath",
+      "id": "B4F678E3-7C8F-49C0-940D-AE29E345BC3A"
+    },
+    {
+      "class": "shapePath",
+      "id": "CF440931-7B25-4B8D-B306-138313D99FBC"
+    },
+    {
+      "class": "shapePath",
+      "id": "046D16E7-6579-42BC-882F-ECAC2658B3FD"
     }
   ],
   "layout": {
@@ -319,7 +279,7 @@
     "offersLandscapeVariant": 0,
     "width": 1440
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

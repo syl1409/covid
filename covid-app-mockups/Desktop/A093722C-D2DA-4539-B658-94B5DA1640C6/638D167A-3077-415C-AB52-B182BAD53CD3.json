@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.984313725490196,
-            "green": 0.6274509803921569,
-            "red": 0.3098039215686275
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Black",
+              "name": "Gotham-Ultra",
               "size": 21
             }
           },
@@ -55,9 +55,9 @@
     "height": 30,
     "width": 337,
     "x": 132,
-    "y": 410
+    "y": 327
   },
-  "glyphBounds": "{{1, 7}, {113, 17}}",
+  "glyphBounds": "{{0, 10}, {115, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -122,14 +122,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.984313725490196,
-          "green": 0.6274509803921569,
-          "red": 0.3098039215686275
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Black",
+            "name": "Gotham-Ultra",
             "size": 21
           }
         },

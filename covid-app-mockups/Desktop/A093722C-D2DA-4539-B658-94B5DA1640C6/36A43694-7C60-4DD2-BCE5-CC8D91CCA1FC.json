@@ -9,21 +9,23 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Bold",
+              "name": "Gotham-Ultra",
               "size": 18
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -50,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 120,
-    "x": 140.5,
-    "y": 772
+    "height": 20,
+    "width": 123,
+    "x": 137,
+    "y": 684
   },
-  "glyphBounds": "{{1, 0}, {118, 15}}",
+  "glyphBounds": "{{0, 5}, {122, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -102,7 +104,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.5085100446428571
+      "opacity": 0.56
     },
     "do_objectID": "09910A35-81C9-408E-9784-BCF1B86684FC",
     "endMarkerType": 0,
@@ -120,21 +122,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Bold",
+            "name": "Gotham-Ultra",
             "size": 18
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
         },
         "textStyleVerticalAlignmentKey": 0
       },

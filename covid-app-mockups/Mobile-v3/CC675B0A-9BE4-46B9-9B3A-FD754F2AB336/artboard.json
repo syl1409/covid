@@ -50,6 +50,10 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "group",
+      "id": "0148B738-5338-461E-B40C-E8AA19126695"
+    },
+    {
       "class": "text",
       "id": "B2E103C1-524B-4F0C-AA04-E4CCF73229F3"
     },

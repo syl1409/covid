@@ -10,13 +10,13 @@
             "_class": "color",
             "alpha": 1,
             "blue": 1,
-            "green": 0.8431372549019608,
-            "red": 0.7019607843137254
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Bold",
+              "name": "Gotham-Ultra",
               "size": 18
             }
           },
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 30,
-    "width": 136,
-    "x": 137.5,
-    "y": 630
+    "width": 139,
+    "x": 133,
+    "y": 563
   },
-  "glyphBounds": "{{0, 4}, {135, 17}}",
+  "glyphBounds": "{{0, 10}, {139, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -104,7 +104,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 1
+      "opacity": 0.56
     },
     "do_objectID": "2433CE24-DF45-4494-A9C6-8CCDE96484B6",
     "endMarkerType": 0,
@@ -123,13 +123,13 @@
           "_class": "color",
           "alpha": 1,
           "blue": 1,
-          "green": 0.8431372549019608,
-          "red": 0.7019607843137254
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Bold",
+            "name": "Gotham-Ultra",
             "size": 18
           }
         },

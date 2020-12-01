@@ -19,7 +19,7 @@
     "height": 78.39999999999999,
     "width": 78.39999999999999,
     "x": 0,
-    "y": 0
+    "y": 5.684341886080801e-14
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -224,7 +224,7 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 20,
+        "blurRadius": 80,
         "color": {
           "_class": "color",
           "alpha": 0.3140297202797203,
@@ -238,7 +238,7 @@
           "opacity": 1
         },
         "isEnabled": true,
-        "offsetX": 0,
+        "offsetX": 3,
         "offsetY": 3,
         "spread": 0
       }
