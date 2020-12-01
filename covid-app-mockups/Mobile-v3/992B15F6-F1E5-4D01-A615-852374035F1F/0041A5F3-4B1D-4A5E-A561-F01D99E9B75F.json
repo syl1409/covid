@@ -9,9 +9,10 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2415956758112822,
-            "green": 0.2415956758112822,
-            "red": 0.2450747282608696
+            "blue": 0.984313725490196,
+            "green": 0.6274509803921569,
+            "red": 0.3098039215686275,
+            "swatchID": "4A2A3611-D1B8-4A22-94E3-4132629B4D6F"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -51,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1,
-    "width": 100,
-    "x": 90.5,
-    "y": 467
+    "height": 20,
+    "width": 123,
+    "x": 87.5,
+    "y": 447
   },
-  "glyphBounds": "{{1, 1}, {98, 16}}",
+  "glyphBounds": "{{13, 1}, {99, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -103,7 +104,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.7453031994047619
+      "opacity": 1
     },
     "do_objectID": "EC47BCF3-0C4D-4089-903A-2A20BE952E80",
     "endMarkerType": 0,
@@ -121,9 +122,10 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2415956758112822,
-          "green": 0.2415956758112822,
-          "red": 0.2450747282608696
+          "blue": 0.984313725490196,
+          "green": 0.6274509803921569,
+          "red": 0.3098039215686275,
+          "swatchID": "4A2A3611-D1B8-4A22-94E3-4132629B4D6F"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -144,5 +146,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

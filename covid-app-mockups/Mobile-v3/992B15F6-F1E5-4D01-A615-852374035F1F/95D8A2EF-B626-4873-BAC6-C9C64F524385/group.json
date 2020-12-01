@@ -18,7 +18,7 @@
     "height": 46,
     "width": 326,
     "x": 27,
-    "y": 798
+    "y": 779
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,12 +33,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "89AA0815-61C8-488A-9DB0-E657534B94F7"
-    },
-    {
       "class": "rectangle",
       "id": "2894BB95-EBC7-4391-BFB0-ED1745CCEEFC"
+    },
+    {
+      "class": "text",
+      "id": "89AA0815-61C8-488A-9DB0-E657534B94F7"
     }
   ],
   "name": "CTA",

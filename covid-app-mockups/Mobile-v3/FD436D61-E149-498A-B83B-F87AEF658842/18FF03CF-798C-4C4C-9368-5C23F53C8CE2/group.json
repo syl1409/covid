@@ -18,7 +18,7 @@
     "height": 46,
     "width": 326,
     "x": 31,
-    "y": 680
+    "y": 661
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,12 +33,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "5EF10DF0-9D86-42FD-9A86-553EBD0649E1"
-    },
-    {
       "class": "rectangle",
       "id": "78290209-322D-48EF-BCDF-136FFB5F15CE"
+    },
+    {
+      "class": "text",
+      "id": "5EF10DF0-9D86-42FD-9A86-553EBD0649E1"
     }
   ],
   "name": "CTA",
@@ -79,7 +79,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.3359840029761905
+      "opacity": 1
     },
     "do_objectID": "977E0427-F4CC-464B-B8A9-C04CB1B50542",
     "endMarkerType": 0,

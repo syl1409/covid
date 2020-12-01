@@ -9,18 +9,19 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.984313725490196,
+            "green": 0.6274509803921569,
+            "red": 0.3098039215686275,
+            "swatchID": "4A2A3611-D1B8-4A22-94E3-4132629B4D6F"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Gotham-Bold",
-              "size": 16
+              "size": 21
             }
           },
-          "kerning": -0.4,
+          "kerning": -0.525,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -53,12 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
+    "height": 21,
     "width": 328,
-    "x": 28.5,
-    "y": 257
+    "x": 19.5,
+    "y": 234
   },
-  "glyphBounds": "{{0, 1}, {120, 13}}",
+  "glyphBounds": "{{0, 1}, {158, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -123,18 +124,19 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.984313725490196,
+          "green": 0.6274509803921569,
+          "red": 0.3098039215686275,
+          "swatchID": "4A2A3611-D1B8-4A22-94E3-4132629B4D6F"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Gotham-Bold",
-            "size": 16
+            "size": 21
           }
         },
-        "kerning": -0.4,
+        "kerning": -0.525,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

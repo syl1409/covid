@@ -106,9 +106,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847,
+          "swatchID": "2CBA3AA0-C8AF-4D71-8412-86EED17490A0"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -147,7 +148,7 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 0,
         "thickness": 1
       }
@@ -173,9 +174,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9298007246376812,
-          "green": 0.9298007246376812,
-          "red": 0.9298007246376812
+          "blue": 0.9490196078431372,
+          "green": 0.9490196078431372,
+          "red": 0.9490196078431372,
+          "swatchID": "6D4351F2-5BEC-4B1F-BC28-BE6348106FAF"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -225,6 +227,26 @@
     ],
     "miterLimit": 10,
     "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1169416520979021,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
     ],
     "startMarkerType": 0,
     "windingRule": 1

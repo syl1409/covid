@@ -18,9 +18,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 318,
-    "width": 265,
+    "width": 267,
     "x": 14,
-    "y": 450
+    "y": 431
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -247,13 +247,13 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 4,
+        "blurRadius": 10,
         "color": {
           "_class": "color",
-          "alpha": 0.5,
-          "blue": 0.8262001811594203,
-          "green": 0.8262001811594203,
-          "red": 0.8262001811594203
+          "alpha": 0.1293433129370629,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -261,7 +261,7 @@
           "opacity": 1
         },
         "isEnabled": true,
-        "offsetX": 2,
+        "offsetX": 3,
         "offsetY": 3,
         "spread": 0
       }

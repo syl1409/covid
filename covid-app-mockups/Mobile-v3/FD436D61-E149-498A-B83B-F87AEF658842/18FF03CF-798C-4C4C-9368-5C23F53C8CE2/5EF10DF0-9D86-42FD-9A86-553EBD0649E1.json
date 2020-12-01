@@ -9,14 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.3992052414170172,
+            "green": 0.1463236167263167,
+            "red": 0.8710371376811594,
+            "swatchID": "FA2689AF-DE10-4846-914B-965EC194B98C"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica-Bold",
+              "name": "Gotham-Bold",
               "size": 16
             }
           },
@@ -50,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
+    "height": 16,
     "width": 265,
     "x": 32.5,
-    "y": 14
+    "y": 16
   },
-  "glyphBounds": "{{97, 3}, {71, 16}}",
+  "glyphBounds": "{{95, 1}, {76, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -102,7 +103,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 1
+      "opacity": 0.5020212572674418
     },
     "do_objectID": "DC9FA379-0E63-4ECE-A9C5-90948E27254B",
     "endMarkerType": 0,
@@ -120,14 +121,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.3992052414170172,
+          "green": 0.1463236167263167,
+          "red": 0.8710371376811594,
+          "swatchID": "FA2689AF-DE10-4846-914B-965EC194B98C"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica-Bold",
+            "name": "Gotham-Bold",
             "size": 16
           }
         },

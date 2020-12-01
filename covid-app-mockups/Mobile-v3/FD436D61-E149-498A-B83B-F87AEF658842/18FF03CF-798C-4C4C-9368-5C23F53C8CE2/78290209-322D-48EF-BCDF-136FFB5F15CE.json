@@ -106,9 +106,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.2156862745098039,
+          "green": 0.2156862745098039,
+          "red": 0.792156862745098,
+          "swatchID": "B95871E1-84A5-4E4E-BEF1-1CD08F8987AA"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -163,7 +164,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 1
+      "opacity": 0.5020212572674418
     },
     "do_objectID": "04F44209-8B3A-4646-B464-ADFD7DD80D23",
     "endMarkerType": 0,
@@ -173,9 +174,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.9490196078431372,
+          "green": 0.9490196078431372,
+          "red": 0.9490196078431372,
+          "swatchID": "6D4351F2-5BEC-4B1F-BC28-BE6348106FAF"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -214,7 +216,7 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

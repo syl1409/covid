@@ -16,10 +16,11 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
+              "name": "GothamBook",
               "size": 15
             }
           },
+          "kerning": -0.53,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -53,9 +54,9 @@
     "height": 65,
     "width": 336,
     "x": 24,
-    "y": 276
+    "y": 252
   },
-  "glyphBounds": "{{0, 3}, {228, 16}}",
+  "glyphBounds": "{{0, -1}, {242, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -127,10 +128,11 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
+            "name": "GothamBook",
             "size": 15
           }
         },
+        "kerning": -0.53,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

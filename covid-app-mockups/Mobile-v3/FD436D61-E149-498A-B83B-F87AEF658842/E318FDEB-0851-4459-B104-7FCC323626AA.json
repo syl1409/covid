@@ -19,8 +19,8 @@
     "constrainProportions": true,
     "height": 22,
     "width": 22,
-    "x": 36,
-    "y": 597
+    "x": 71,
+    "y": 590
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -106,9 +106,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.2241281702898551,
+          "green": 0.2241281702898551,
+          "red": 0.2241281702898551,
+          "swatchID": "0E6940B8-A5F6-4CB5-96DF-06DFB611C3D5"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -173,9 +174,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.9490196078431372,
+          "green": 0.9490196078431372,
+          "red": 0.9490196078431372,
+          "swatchID": "6D4351F2-5BEC-4B1F-BC28-BE6348106FAF"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

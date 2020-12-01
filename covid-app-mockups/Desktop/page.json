@@ -39,6 +39,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "3125CE79-DBEC-4B72-8266-7BBDF05EFD38"
+    },
+    {
+      "class": "artboard",
+      "id": "21F0F4A8-2670-4A99-8F45-348CD94C1EA1"
+    }
   ],
   "name": "Desktop",
   "nameIsFixed": true,

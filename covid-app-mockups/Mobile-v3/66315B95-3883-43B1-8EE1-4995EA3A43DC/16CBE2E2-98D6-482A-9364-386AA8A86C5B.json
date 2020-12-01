@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-XLightItalic",
+              "name": "GothamExtraLight-Italic",
               "size": 13
             }
           },
@@ -55,9 +55,9 @@
     "height": 15,
     "width": 134,
     "x": 54,
-    "y": 514
+    "y": 518
   },
-  "glyphBounds": "{{1, 2}, {39, 11}}",
+  "glyphBounds": "{{1, -1}, {39, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -129,7 +129,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-XLightItalic",
+            "name": "GothamExtraLight-Italic",
             "size": 13
           }
         },

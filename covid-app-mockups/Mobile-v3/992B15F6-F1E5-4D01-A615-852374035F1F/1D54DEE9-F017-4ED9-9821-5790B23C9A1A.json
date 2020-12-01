@@ -20,7 +20,7 @@
     "height": 33,
     "width": 80,
     "x": 281,
-    "y": 467
+    "y": 442
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -173,9 +173,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8421648550724637,
-          "green": 0.8421648550724637,
-          "red": 0.8421648550724637
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847,
+          "swatchID": "2CBA3AA0-C8AF-4D71-8412-86EED17490A0"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

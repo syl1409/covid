@@ -84,6 +84,10 @@
     {
       "class": "bitmap",
       "id": "5A28E7BB-1A56-4A2E-9F03-483089AC1E84"
+    },
+    {
+      "class": "rectangle",
+      "id": "2CC4CABB-B23C-4627-96F1-E7115A7842A1"
     }
   ],
   "name": "login",

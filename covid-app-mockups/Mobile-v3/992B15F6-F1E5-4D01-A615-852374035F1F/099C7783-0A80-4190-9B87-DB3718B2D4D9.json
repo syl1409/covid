@@ -18,7 +18,7 @@
     "height": 25,
     "width": 25,
     "x": 293,
-    "y": 581
+    "y": 556
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -34,7 +34,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "46D2D88A-2CF6-4364-BD14-FDF629CBC32D_symbolID",
-      "value": "B0F87D9A-E3BD-4F0C-9A11-3093F3689E94"
+      "value": "052D27AD-0ABA-43A8-B8F4-52A7DE2FF00E"
     }
   ],
   "resizingConstraint": 63,
@@ -74,7 +74,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.6580868675595238
+      "opacity": 1
     },
     "do_objectID": "6418BB6E-8B27-4038-92B0-ADBA4CA2ED26",
     "endMarkerType": 0,

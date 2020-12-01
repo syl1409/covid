@@ -11,12 +11,13 @@
             "alpha": 1,
             "blue": 0.2241281702898551,
             "green": 0.2241281702898551,
-            "red": 0.2241281702898551
+            "red": 0.2241281702898551,
+            "swatchID": "0E6940B8-A5F6-4CB5-96DF-06DFB611C3D5"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Black",
+              "name": "GothamBlack",
               "size": 24
             }
           },
@@ -53,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 30,
-    "width": 181,
-    "x": 96,
-    "y": 174
+    "width": 183,
+    "x": 95,
+    "y": 172
   },
-  "glyphBounds": "{{0, 6}, {180, 19}}",
+  "glyphBounds": "{{0, 5}, {181, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -124,12 +125,13 @@
           "alpha": 1,
           "blue": 0.2241281702898551,
           "green": 0.2241281702898551,
-          "red": 0.2241281702898551
+          "red": 0.2241281702898551,
+          "swatchID": "0E6940B8-A5F6-4CB5-96DF-06DFB611C3D5"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Black",
+            "name": "GothamBlack",
             "size": 24
           }
         },

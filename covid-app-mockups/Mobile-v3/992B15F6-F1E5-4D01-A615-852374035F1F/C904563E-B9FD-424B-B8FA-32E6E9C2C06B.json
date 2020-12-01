@@ -9,9 +9,10 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.02584352355072464,
-            "green": 0.02584352355072464,
-            "red": 0.02584352355072464
+            "blue": 0.3842278079710145,
+            "green": 0.3842278079710145,
+            "red": 0.3842278079710145,
+            "swatchID": "1395FEE9-8D7D-4CDD-AF9F-8DC5CCB1826A"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -20,7 +21,7 @@
               "size": 13
             }
           },
-          "kerning": -0.655,
+          "kerning": -0.53,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
@@ -55,10 +56,10 @@
     "constrainProportions": false,
     "height": 22,
     "width": 46,
-    "x": 296,
-    "y": 472
+    "x": 297,
+    "y": 447
   },
-  "glyphBounds": "{{0, 1}, {46, 24}}",
+  "glyphBounds": "{{0, 1}, {47, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -123,9 +124,10 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.02584352355072464,
-          "green": 0.02584352355072464,
-          "red": 0.02584352355072464
+          "blue": 0.3842278079710145,
+          "green": 0.3842278079710145,
+          "red": 0.3842278079710145,
+          "swatchID": "1395FEE9-8D7D-4CDD-AF9F-8DC5CCB1826A"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -134,7 +136,7 @@
             "size": 13
           }
         },
-        "kerning": -0.655,
+        "kerning": -0.53,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,

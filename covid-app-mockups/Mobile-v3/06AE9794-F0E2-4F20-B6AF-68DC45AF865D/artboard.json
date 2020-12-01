@@ -110,12 +110,8 @@
       "id": "D31EEFE8-949D-46D1-839E-855ABE7D6AA6"
     },
     {
-      "class": "rectangle",
-      "id": "9C2358F7-1B0A-461F-B999-DCF9EB136487"
-    },
-    {
-      "class": "text",
-      "id": "45714EF1-91CE-4C64-A17C-FC0C4F3D35A1"
+      "class": "symbolInstance",
+      "id": "529C3906-587E-407F-AF33-39FCC9572581"
     },
     {
       "class": "text",
@@ -124,18 +120,6 @@
     {
       "class": "group",
       "id": "3E006C2F-60AD-4972-AFF5-E8A129ABDDC0"
-    },
-    {
-      "class": "shapePath",
-      "id": "E855814A-69BB-4333-81EF-CF5D6365E319"
-    },
-    {
-      "class": "shapePath",
-      "id": "FEE02272-192A-405D-860E-35FCCBFBB2EA"
-    },
-    {
-      "class": "shapePath",
-      "id": "C0E13944-D64F-49D5-AD79-109386532110"
     },
     {
       "class": "bitmap",

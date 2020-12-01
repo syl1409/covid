@@ -9,14 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.3992052414170172,
+            "green": 0.1463236167263167,
+            "red": 0.8710371376811594,
+            "swatchID": "FA2689AF-DE10-4846-914B-965EC194B98C"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica-Bold",
+              "name": "GothamBlack",
               "size": 24
             }
           },
@@ -50,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 58,
-    "width": 239,
+    "height": 44,
+    "width": 260,
     "x": 21,
-    "y": 439
+    "y": 425
   },
-  "glyphBounds": "{{1, 5}, {238, 53}}",
+  "glyphBounds": "{{1, 0}, {258, 44}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -120,14 +121,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.3992052414170172,
+          "green": 0.1463236167263167,
+          "red": 0.8710371376811594,
+          "swatchID": "FA2689AF-DE10-4846-914B-965EC194B98C"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica-Bold",
+            "name": "GothamBlack",
             "size": 24
           }
         },

@@ -17,9 +17,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1,
-    "width": 381,
-    "x": 0,
-    "y": 317
+    "width": 349,
+    "x": 12,
+    "y": 298
   },
   "hasClippingMask": false,
   "isClosed": false,
@@ -36,22 +36,22 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.0013123359580052495, 0.5}",
+      "curveFrom": "{0.0014326647564469914, 0.49999999999999994}",
       "curveMode": 1,
-      "curveTo": "{0.0013123359580052495, 0.5}",
+      "curveTo": "{0.0014326647564469914, 0.49999999999999994}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.0013123359580052495, 0.5}"
+      "point": "{0.0014326647564469914, 0.49999999999999994}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.0013123359580052495, 0.5}",
+      "curveFrom": "{0.0014326647564469914, 0.49999999999999994}",
       "curveMode": 1,
-      "curveTo": "{0.0013123359580052495, 0.5}",
+      "curveTo": "{0.0014326647564469914, 0.49999999999999994}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.9986876640419946, 0.5}"
+      "point": "{0.99856733524355334, 0.5}"
     }
   ],
   "resizingConstraint": 63,
@@ -83,9 +83,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9227122560664932,
-          "green": 0.9227122560664932,
-          "red": 0.935348731884058
+          "blue": 0.984313725490196,
+          "green": 0.6274509803921569,
+          "red": 0.3098039215686275,
+          "swatchID": "4A2A3611-D1B8-4A22-94E3-4132629B4D6F"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
