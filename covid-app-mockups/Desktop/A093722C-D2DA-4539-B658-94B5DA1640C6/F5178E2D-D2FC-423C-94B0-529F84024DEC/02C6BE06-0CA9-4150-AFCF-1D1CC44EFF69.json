@@ -1,8 +1,9 @@
 {
-  "_class": "symbolInstance",
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "362C9BDC-5535-4B04-9B40-4680C9ECC8E7",
+  "do_objectID": "02C6BE06-0CA9-4150-AFCF-1D1CC44EFF69",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,36 +13,34 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 17,
-    "width": 17,
-    "x": 101,
-    "y": 18.55555555555554
+    "constrainProportions": true,
+    "height": 98,
+    "width": 98,
+    "x": 0,
+    "y": 0.3267326732673155
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/75630b39ccc92fef43716cac5c103b76d8b32278.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "ic_add_to_queue",
+  "name": "Bitmap",
   "nameIsFixed": false,
-  "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "FE775804-9E8F-4ADF-BCF6-C9C06AFB7901_symbolID",
-      "value": "B0F87D9A-E3BD-4F0C-9A11-3093F3689E94"
-    }
-  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -74,9 +73,9 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.6580868675595238
+      "opacity": 1
     },
-    "do_objectID": "DBE4FDA1-7164-4392-8B7F-FA9021A4866F",
+    "do_objectID": "0257F076-E668-458C-9E7F-F345A172E928",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,7 +86,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "3A4145D1-0AA4-474D-B86B-F6F759E5D322",
-  "verticalSpacing": 0
+  }
 }

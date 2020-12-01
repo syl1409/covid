@@ -17,28 +17,29 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Gotham-Bold",
-              "size": 36
+              "size": 17
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 40,
-            "minimumLineHeight": 40
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20,
+            "paragraphSpacing": 0.1
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 1,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "?"
+    "string": "History"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "310F7AAB-4429-4B6E-B1CB-0230D1209D5D",
+  "do_objectID": "7E03295C-C6E9-4F5D-865D-AF0FC1B91BFF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 26,
-    "x": 37,
-    "y": 104.5555555555555
+    "height": 20,
+    "width": 63,
+    "x": 1019,
+    "y": 40
   },
-  "glyphBounds": "{{0, -3}, {19, 26}}",
+  "glyphBounds": "{{1, 0}, {61, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,9 +67,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "?",
+  "name": "History",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
@@ -104,9 +105,9 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 1
+      "opacity": 0.7214936755952381
     },
-    "do_objectID": "77DC2522-B5D6-4394-A63B-64340B6B1048",
+    "do_objectID": "608E4456-572F-4A00-B503-074AA72BE69A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -130,15 +131,16 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Gotham-Bold",
-            "size": 36
+            "size": 17
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 40,
-          "minimumLineHeight": 40
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20,
+          "paragraphSpacing": 0.1
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -146,7 +148,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

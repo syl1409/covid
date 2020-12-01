@@ -98,18 +98,6 @@
       "id": "3E65B579-02A5-4B6B-B5DD-F0A63D1A350C"
     },
     {
-      "class": "text",
-      "id": "310F7AAB-4429-4B6E-B1CB-0230D1209D5D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F11F1635-B9F0-48DE-A688-78D0175C99A9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D31EEFE8-949D-46D1-839E-855ABE7D6AA6"
-    },
-    {
       "class": "rectangle",
       "id": "9C2358F7-1B0A-461F-B999-DCF9EB136487"
     },
@@ -152,6 +140,26 @@
     {
       "class": "group",
       "id": "93866581-1245-4AC8-8E7C-8D7776E213BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8CF174DE-BFD4-4EBD-8C4A-CBCD0784F9C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "76BA1D05-822A-4964-8F7F-07B30297F2FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D93AF40E-8586-4C2C-B542-06304AE42411"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF53F6EC-A2C6-4CEE-B5AA-54D959DABD73"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "060C8B21-28EA-4F6A-A699-59462C00C01E"
     }
   ],
   "name": "New reservation",
