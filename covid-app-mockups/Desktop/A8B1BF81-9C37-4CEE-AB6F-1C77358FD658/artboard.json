@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -298,7 +298,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1400
   },
-  "name": "Motivation Copy 6",
+  "name": "transportation",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

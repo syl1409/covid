@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
+    "height": 747,
     "width": 375,
     "x": 2558,
     "y": -334
@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,12 +50,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "68519E25-2D63-4245-9462-9F6AF794A174"
-    },
-    {
-      "class": "text",
-      "id": "70BC35E2-2098-4D58-B123-985CB1453E96"
+      "class": "group",
+      "id": "F6649BD5-1B7B-454A-9DC1-821C18EA613D"
     },
     {
       "class": "text",
@@ -304,6 +300,22 @@
     {
       "class": "symbolInstance",
       "id": "5E1B1EC5-24B9-4E8A-8DEF-08594EA507A6"
+    },
+    {
+      "class": "text",
+      "id": "68519E25-2D63-4245-9462-9F6AF794A174"
+    },
+    {
+      "class": "text",
+      "id": "70BC35E2-2098-4D58-B123-985CB1453E96"
+    },
+    {
+      "class": "group",
+      "id": "66EDA3DA-41AB-423C-9867-D0ADCB383330"
+    },
+    {
+      "class": "bitmap",
+      "id": "BDDBEBDA-8435-442C-9218-EBD90FDD4655"
     }
   ],
   "name": "History",

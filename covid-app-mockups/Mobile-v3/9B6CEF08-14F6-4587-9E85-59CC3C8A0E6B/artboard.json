@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,72 +62,12 @@
       "id": "3E435F37-929D-481C-9CE3-FF2DAD03123D"
     },
     {
-      "class": "shapePath",
-      "id": "BD04DB7D-0E7D-4CE1-A76B-B0A1851E84A9"
-    },
-    {
-      "class": "shapePath",
-      "id": "BE63DDE9-C3CF-44DA-B7CA-84D817026E17"
-    },
-    {
-      "class": "oval",
-      "id": "ECA20116-E4C2-4815-8B80-D38C1A70FAC0"
-    },
-    {
-      "class": "oval",
-      "id": "9221A8E2-EDA5-43BE-9694-AC8AC0C288FA"
-    },
-    {
-      "class": "oval",
-      "id": "DBDD6F34-2D4B-4BBA-903B-1F653685561A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "85B52DF7-3D56-45AA-82E2-487330FC14D1"
-    },
-    {
-      "class": "oval",
-      "id": "3058F9D1-AA32-4608-8B7F-CCFEC8DBA00D"
-    },
-    {
-      "class": "oval",
-      "id": "9F1E7059-7AF8-4616-8578-C66B21B8E890"
-    },
-    {
       "class": "bitmap",
       "id": "54DA1EFA-C24D-4C57-B471-1C7405EEB076"
     },
     {
       "class": "shapePath",
       "id": "FD26879B-2757-4B1B-9B6F-8EA186EA8878"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "238138B4-4420-4A53-89A0-192D9F896787"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "16C9028C-EEFF-4E93-A04C-247B9E4F0468"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7E54725E-466A-4D65-99AE-D93C4FD648DF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0233810A-A67A-4A50-AC4F-A83100CC7108"
-    },
-    {
-      "class": "rectangle",
-      "id": "FD2F0EDE-45AB-4AE7-8773-A32B0A49C89C"
-    },
-    {
-      "class": "text",
-      "id": "EC49785B-3F43-4437-944F-0917662D96D8"
-    },
-    {
-      "class": "group",
-      "id": "3DDABEA0-EFFA-429B-A823-9946AE1074AD"
     },
     {
       "class": "group",
