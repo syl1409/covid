@@ -41,11 +41,35 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "3125CE79-DBEC-4B72-8266-7BBDF05EFD38"
+      "id": "F914AB89-DC58-4908-8C86-79D7E05214C3"
     },
     {
       "class": "artboard",
-      "id": "21F0F4A8-2670-4A99-8F45-348CD94C1EA1"
+      "id": "01441228-5792-4574-8250-C0DCC2728D76"
+    },
+    {
+      "class": "artboard",
+      "id": "A14E766F-760D-4A57-B805-1381C0C0BB6A"
+    },
+    {
+      "class": "artboard",
+      "id": "88E20C74-95C5-4D94-A3E9-7C181E569EAC"
+    },
+    {
+      "class": "artboard",
+      "id": "2ABE37DD-641E-4BFB-BB18-B6FB15EB59F4"
+    },
+    {
+      "class": "artboard",
+      "id": "62AB8FBD-CB9C-4C4E-871B-DFB557B88753"
+    },
+    {
+      "class": "artboard",
+      "id": "790B8153-19CD-4F61-9C27-11357E771132"
+    },
+    {
+      "class": "artboard",
+      "id": "8A9B6238-4392-43FB-87E8-E82C3C42476B"
     }
   ],
   "name": "Desktop",
