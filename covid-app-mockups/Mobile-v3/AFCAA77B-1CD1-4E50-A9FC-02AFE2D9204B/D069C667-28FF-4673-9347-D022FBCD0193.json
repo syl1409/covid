@@ -16,14 +16,17 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
-              "size": 15
+              "name": "Gotham-Book",
+              "size": 16
             }
           },
+          "kerning": -0.5333333333333333,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -52,10 +55,10 @@
     "constrainProportions": false,
     "height": 36,
     "width": 277,
-    "x": 24,
-    "y": 296
+    "x": 46,
+    "y": 202
   },
-  "glyphBounds": "{{0, 3}, {243, 34}}",
+  "glyphBounds": "{{3, 1}, {272, 35}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,6 +72,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "A7D02B90-2C32-48A5-A66D-0AC4EB6318A5",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -127,14 +131,17 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
-            "size": 15
+            "name": "Gotham-Book",
+            "size": 16
           }
         },
+        "kerning": -0.5333333333333333,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
         },
         "textStyleVerticalAlignmentKey": 0
       },

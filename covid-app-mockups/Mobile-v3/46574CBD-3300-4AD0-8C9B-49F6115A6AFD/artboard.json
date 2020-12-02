@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 1158,
-    "y": 2621
+    "x": 3453,
+    "y": -341
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,50 +50,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "13976953-016C-4B62-95F2-CEE2B70FB10E"
-    },
-    {
-      "class": "rectangle",
-      "id": "2BD16898-27BC-4A6B-A3B9-170A1EC464E0"
-    },
-    {
-      "class": "shapePath",
-      "id": "E706CF2F-86E7-4EF1-A848-157260C1418B"
-    },
-    {
-      "class": "shapePath",
-      "id": "1A9E3E80-138E-4A23-91BD-20B0F3BD14E5"
-    },
-    {
-      "class": "group",
-      "id": "22B175CF-B3C5-414F-8886-9485EBC1F815"
-    },
-    {
-      "class": "group",
-      "id": "9A955679-D0D7-45A5-83B4-D085B39175A1"
-    },
-    {
-      "class": "text",
-      "id": "72F5683B-A614-4338-B7C3-BE242DA9337D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AC3D506A-C84C-43A5-AE09-A61EBD23377C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A1C5E833-52DC-4BE5-88CC-8D9E6AE8BF0F"
-    },
-    {
-      "class": "shapePath",
-      "id": "C83C9588-EBE5-4E49-99A3-87AF7CD6DF09"
-    },
-    {
-      "class": "text",
-      "id": "1289E198-B6F8-4655-87C3-8170CFD0980A"
-    },
-    {
       "class": "text",
       "id": "34FDBCCE-2A04-403A-8726-B60B0CE0F0F1"
     },
@@ -103,51 +59,207 @@
     },
     {
       "class": "text",
-      "id": "EC70B4FF-97E1-4BF1-8258-E8BB1DD986D1"
+      "id": "20721002-CED9-4FF8-8D1D-8A1A7E79CF38"
     },
     {
       "class": "text",
-      "id": "72487606-5847-4EF4-8281-B7E3DBEF122D"
+      "id": "D4EEECA6-3F02-4ADA-8BC7-2A48374FDDC2"
     },
     {
-      "class": "symbolInstance",
-      "id": "474EE81E-C1ED-45DC-9B22-F7DAB9FF09CE"
+      "class": "shapePath",
+      "id": "269F6E71-CAC2-4F04-ACFE-421E9087FFFD"
+    },
+    {
+      "class": "shapePath",
+      "id": "53999E39-AFA5-46BE-95D0-5C022CEBF76D"
+    },
+    {
+      "class": "shapePath",
+      "id": "F553B016-371D-4F2A-A65D-AFC11508297A"
+    },
+    {
+      "class": "shapePath",
+      "id": "E4C93BD4-915E-4447-BD81-32C2B7ACF5D6"
+    },
+    {
+      "class": "shapePath",
+      "id": "168A0005-67B0-49AE-8DE7-4ED88FAF470D"
+    },
+    {
+      "class": "shapePath",
+      "id": "B232A664-0D44-4CFE-89FC-F8737043EC08"
+    },
+    {
+      "class": "shapePath",
+      "id": "C319275F-7FA6-4359-A4CE-B0CB9703E26B"
+    },
+    {
+      "class": "text",
+      "id": "34DBEF3F-2FC7-47E2-81BD-31F30BBC96EB"
+    },
+    {
+      "class": "text",
+      "id": "382CE490-74D7-4948-B5C5-F51C23121329"
+    },
+    {
+      "class": "text",
+      "id": "C6D0C357-1183-4BCA-BB07-F3B59909B8C6"
+    },
+    {
+      "class": "text",
+      "id": "9CEC7942-48D9-4F3E-A585-978DE2E34C9B"
+    },
+    {
+      "class": "text",
+      "id": "44916358-372B-44F1-9A2B-A47D0D1BC006"
+    },
+    {
+      "class": "text",
+      "id": "93E40E9A-06E2-4A33-9D97-8817179908CE"
     },
     {
       "class": "rectangle",
-      "id": "5E5E338C-84FE-4789-97AD-B7A24DA71D1F"
-    },
-    {
-      "class": "text",
-      "id": "EC61D2B7-8A2B-4EC9-BBDB-B93AF31B2891"
+      "id": "72F1FD7A-C925-4588-960E-5688571A1431"
     },
     {
       "class": "rectangle",
-      "id": "8507085E-943F-454B-9618-9E9459E96B52"
+      "id": "E5A8A2EE-2757-4B8C-9804-B5EFF0E60ACC"
     },
     {
       "class": "rectangle",
-      "id": "BF60D946-DCD2-49C1-882E-07F0AFA3A846"
+      "id": "D9D21E55-1C86-4075-9511-45D2F646FB70"
     },
     {
-      "class": "text",
-      "id": "645874F2-D512-4AC8-9538-F20A8B5AE15B"
+      "class": "rectangle",
+      "id": "8CA067C0-1FE0-4A64-AE0A-1C0E68B482C7"
     },
     {
-      "class": "text",
-      "id": "10CEA0D4-FB04-40B1-8010-A4BC5133B11B"
+      "class": "rectangle",
+      "id": "DBB2FB5F-2BD2-4146-BD5C-D6149D6681A6"
     },
     {
-      "class": "text",
-      "id": "B5A071A8-866B-498F-A8B5-CEB2D522BF4D"
+      "class": "rectangle",
+      "id": "721F78FF-77A6-4FA7-AAA8-85A010E9293F"
+    },
+    {
+      "class": "rectangle",
+      "id": "079DED56-6AEA-464D-9CBD-D7AD867A4B62"
+    },
+    {
+      "class": "shapePath",
+      "id": "36A9BBD1-764D-4740-B07A-992F0402881A"
     },
     {
       "class": "group",
-      "id": "925D9C5A-7364-4B2B-96FF-80BA13637D68"
+      "id": "1E39C57D-8D4A-48C6-8F1F-54DECBEF1FF6"
+    },
+    {
+      "class": "shapePath",
+      "id": "DE154FDA-8956-4353-BEB7-6CEE86D03235"
+    },
+    {
+      "class": "shapePath",
+      "id": "AC3E3D96-3264-4E76-982C-666968765C6D"
     },
     {
       "class": "oval",
-      "id": "6297657F-8680-43F5-9BEC-7A129491FF41"
+      "id": "5DCE2862-5CB3-4529-9EA8-5D6F9DF92522"
+    },
+    {
+      "class": "oval",
+      "id": "8DCB0B74-E3B5-43A5-AEA2-7C9826FCFC54"
+    },
+    {
+      "class": "oval",
+      "id": "3928A743-2E24-4DBB-9A37-7ED43D3F506E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A6CFDF85-ABD7-4801-8D17-F19F51B73E0C"
+    },
+    {
+      "class": "oval",
+      "id": "8258E83F-DFE2-482F-B61F-60329227E16F"
+    },
+    {
+      "class": "oval",
+      "id": "DFDAEE08-6F63-48B9-9E0B-B4823294B675"
+    },
+    {
+      "class": "bitmap",
+      "id": "1D006458-C943-4E40-97FA-2BCF490B9800"
+    },
+    {
+      "class": "shapePath",
+      "id": "370A8367-AAF7-4485-9B1C-C7A0ED89FF06"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2C435179-1674-4233-8FFA-E2637B3213B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C7EA1226-01AE-473A-91D9-5A1ECEBFB986"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0FA5857-2EE0-465D-ACB6-91985E025EA2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "026D0F97-754F-4388-8F17-E89CF86869A6"
+    },
+    {
+      "class": "rectangle",
+      "id": "6FC86309-CE12-445F-B1FA-4220FC57BB9A"
+    },
+    {
+      "class": "text",
+      "id": "A04BBE3C-4837-4315-B957-817DD80B36F2"
+    },
+    {
+      "class": "text",
+      "id": "9470959F-A01C-49FA-A361-C9224E07331E"
+    },
+    {
+      "class": "group",
+      "id": "E1F7151A-43E4-407C-AE39-C9791982B41B"
+    },
+    {
+      "class": "shapePath",
+      "id": "31F665FB-0C65-4431-A6CB-5BFE6F690AED"
+    },
+    {
+      "class": "rectangle",
+      "id": "1573C38E-33BB-4F95-B660-E74B69FF244E"
+    },
+    {
+      "class": "rectangle",
+      "id": "B8C090D1-75F9-4640-A541-C4CACCFABABC"
+    },
+    {
+      "class": "rectangle",
+      "id": "88EFF7BF-E69C-4949-B4B8-DAD617DC000E"
+    },
+    {
+      "class": "text",
+      "id": "8E7B29A2-0765-448D-A6C1-6DC554CBDD0B"
+    },
+    {
+      "class": "oval",
+      "id": "CD9B64A7-654F-4FEF-9F2E-F57ADA3685DB"
+    },
+    {
+      "class": "text",
+      "id": "13A834D2-E8BF-4811-B629-3333446557D1"
+    },
+    {
+      "class": "text",
+      "id": "A4FFAE8D-CFB0-4614-BE5E-E4EFC4CA6FA4"
+    },
+    {
+      "class": "text",
+      "id": "8E7C4CE2-D10F-4973-90D7-E97E5B9A439F"
     }
   ],
   "name": "Termns",
