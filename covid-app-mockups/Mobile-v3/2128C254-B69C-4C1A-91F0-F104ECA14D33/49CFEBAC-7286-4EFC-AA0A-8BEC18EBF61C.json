@@ -2,7 +2,7 @@
   "_class": "oval",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EA589C82-213C-4F02-8682-E4DBA6BF1536",
+  "do_objectID": "49CFEBAC-7286-4EFC-AA0A-8BEC18EBF61C",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -18,7 +18,7 @@
     "constrainProportions": true,
     "height": 56,
     "width": 56,
-    "x": 237,
+    "x": 304,
     "y": 89
   },
   "hasClippingMask": false,
@@ -29,7 +29,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Oval Copy 7",
+  "name": "Oval Copy 8",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -162,7 +162,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "31003F27-B24B-4AD2-ACDC-1C5AA5F86018",
+    "do_objectID": "12F8F866-35E9-4708-BB31-A8BB4993A48E",
     "endMarkerType": 0,
     "fills": [
       {

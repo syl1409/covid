@@ -1,9 +1,8 @@
 {
-  "_class": "shapePath",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "42A63402-C1C3-4551-A30C-46B57B916B26",
-  "edited": true,
+  "do_objectID": "3659F3EA-05B0-43B3-9169-20E78138789E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,47 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1,
-    "width": 132,
-    "x": 20,
-    "y": 778
+    "height": 20,
+    "width": 21,
+    "x": 170,
+    "y": 104
   },
   "hasClippingMask": false,
-  "isClosed": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Line 3",
+  "name": "calendar-days copy",
   "nameIsFixed": false,
-  "pointRadiusBehaviour": 1,
-  "points": [
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.0037878787878787867, 0.49999999999999939}",
-      "curveMode": 1,
-      "curveTo": "{0.0037878787878787867, 0.49999999999999939}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0.0037878787878787867, 0.49999999999999939}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.0037878787878787867, 0.49999999999999939}",
-      "curveMode": 1,
-      "curveTo": "{0.0037878787878787867, 0.49999999999999939}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0.9962121212121211, 0.5}"
-    }
+  "overrideValues": [
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -74,18 +53,35 @@
       "dashPattern": [
       ],
       "isEnabled": true,
-      "lineCapStyle": 2,
+      "lineCapStyle": 0,
       "lineJoinStyle": 0
     },
     "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "3CF8C594-80EC-40CD-B5A6-C6C41488EEFC",
+    "endMarkerType": 0,
+    "fills": [
       {
-        "_class": "border",
+        "_class": "fill",
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.984313725490196,
-          "green": 0.6274509803921565,
-          "red": 0.3098039215686275
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -125,73 +121,6 @@
           "to": "{0.5, 1}"
         },
         "isEnabled": true,
-        "position": 0,
-        "thickness": 1
-      }
-    ],
-    "colorControls": {
-      "_class": "colorControls",
-      "brightness": 0,
-      "contrast": 1,
-      "hue": 0,
-      "isEnabled": false,
-      "saturation": 1
-    },
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 1
-    },
-    "do_objectID": "A5FD34D6-6C8B-4A92-815B-4F299292FD07",
-    "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "fillType": 0,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.5, 0}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0,
-                "green": 0,
-                "red": 0
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, 1}"
-        },
-        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
@@ -205,5 +134,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "74497CA4-DC16-4C38-9712-30442D1B12FD",
+  "verticalSpacing": 0
 }

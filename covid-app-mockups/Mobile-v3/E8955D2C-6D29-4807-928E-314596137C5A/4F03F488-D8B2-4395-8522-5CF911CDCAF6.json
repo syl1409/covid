@@ -2,7 +2,7 @@
   "_class": "oval",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EA589C82-213C-4F02-8682-E4DBA6BF1536",
+  "do_objectID": "4F03F488-D8B2-4395-8522-5CF911CDCAF6",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -18,7 +18,7 @@
     "constrainProportions": true,
     "height": 56,
     "width": 56,
-    "x": 237,
+    "x": 304,
     "y": 89
   },
   "hasClippingMask": false,
@@ -162,7 +162,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "31003F27-B24B-4AD2-ACDC-1C5AA5F86018",
+    "do_objectID": "BA451BDF-512C-4589-95C8-0A5E1AAFE642",
     "endMarkerType": 0,
     "fills": [
       {
