@@ -155,10 +155,6 @@
       "id": "7AE9E039-D1EC-43D3-B737-8A38804175DD"
     },
     {
-      "class": "group",
-      "id": "A26A69DB-B131-4DC3-974B-F5872185FD33"
-    },
-    {
       "class": "shapePath",
       "id": "4DFB2AE9-EDF3-4749-AD29-5D71A3EB7DFC"
     },
@@ -181,6 +177,10 @@
     {
       "class": "group",
       "id": "B11BCE53-7B53-4161-B050-1666CAAD02C0"
+    },
+    {
+      "class": "bitmap",
+      "id": "4C03C0C2-72A6-44D2-BB7B-191BCD0749E0"
     },
     {
       "class": "shapePath",

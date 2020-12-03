@@ -16,11 +16,11 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Book",
-              "size": 13
+              "name": "GothamBook",
+              "size": 11
             }
           },
-          "kerning": -0.5,
+          "kerning": -0.4230769230769231,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 7,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "QR code"
+    "string": "Fill form"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 56,
-    "x": 228,
-    "y": 311
+    "width": 50,
+    "x": 247,
+    "y": 304
   },
-  "glyphBounds": "{{0, 0}, {53, 11}}",
+  "glyphBounds": "{{1, 2}, {40, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "QR code",
+  "name": "Fill form",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -131,11 +131,11 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Book",
-            "size": 13
+            "name": "GothamBook",
+            "size": 11
           }
         },
-        "kerning": -0.5,
+        "kerning": -0.4230769230769231,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

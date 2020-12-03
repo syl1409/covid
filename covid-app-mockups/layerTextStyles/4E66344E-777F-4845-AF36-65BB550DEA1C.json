@@ -60,7 +60,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Ultra",
+            "name": "GothamUltra",
             "size": 24
           }
         },

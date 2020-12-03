@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Ultra",
+              "name": "GothamUltra",
               "size": 18
             }
           },
@@ -55,9 +55,9 @@
     "height": 30,
     "width": 85,
     "x": 130,
-    "y": 490
+    "y": 489
   },
-  "glyphBounds": "{{-1, 10}, {86, 15}}",
+  "glyphBounds": "{{-1, 7}, {86, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -129,7 +129,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Ultra",
+            "name": "GothamUltra",
             "size": 18
           }
         },

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Book",
+              "name": "GothamBook",
               "size": 13
             }
           },
@@ -56,9 +56,9 @@
     "height": 65,
     "width": 242,
     "x": 109,
-    "y": 40
+    "y": 39
   },
-  "glyphBounds": "{{0, 2}, {207, 49}}",
+  "glyphBounds": "{{0, 4}, {208, 49}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -130,7 +130,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Book",
+            "name": "GothamBook",
             "size": 13
           }
         },

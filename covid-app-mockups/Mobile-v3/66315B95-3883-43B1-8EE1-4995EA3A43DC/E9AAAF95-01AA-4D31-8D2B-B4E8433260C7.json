@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 20,
     "width": 20,
-    "x": 246,
-    "y": 272.5
+    "x": 261,
+    "y": 275
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -135,6 +135,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A0101859-315D-4331-8C2C-F0963EA8BFC8",
+  "symbolID": "BEA59A70-5DAB-45EC-B1CF-1278F7569C20",
   "verticalSpacing": 0
 }

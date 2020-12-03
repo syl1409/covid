@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Black",
+              "name": "GothamBlack",
               "size": 21
             }
           },
@@ -58,9 +58,9 @@
     "height": 30,
     "width": 123,
     "x": 128.5,
-    "y": 179
+    "y": 178
   },
-  "glyphBounds": "{{1, 7}, {105, 17}}",
+  "glyphBounds": "{{1, 6}, {105, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -133,7 +133,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Black",
+            "name": "GothamBlack",
             "size": 21
           }
         },

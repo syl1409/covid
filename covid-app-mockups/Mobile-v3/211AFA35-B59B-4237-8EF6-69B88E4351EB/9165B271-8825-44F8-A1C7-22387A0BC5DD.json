@@ -17,7 +17,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Black",
+              "name": "GothamBlack",
               "size": 23.1875
             }
           },
@@ -57,11 +57,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 53,
-    "width": 237,
+    "width": 239,
     "x": 21,
-    "y": 414
+    "y": 412
   },
-  "glyphBounds": "{{1, 5}, {236, 48}}",
+  "glyphBounds": "{{1, 4}, {237, 48}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -135,17 +135,17 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Black",
-            "size": 21
+            "name": "GothamBlack",
+            "size": 23.1875
           }
         },
-        "kerning": -0.525,
+        "kerning": -0.5796874736746153,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
+          "maximumLineHeight": 26.5,
+          "minimumLineHeight": 26.5
         },
         "strikethroughStyle": 0,
         "textStyleVerticalAlignmentKey": 0,

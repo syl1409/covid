@@ -106,6 +106,14 @@
     {
       "class": "shapePath",
       "id": "F46FEB81-1032-4686-A611-F543CAB9A6DA"
+    },
+    {
+      "class": "artboard",
+      "id": "7F0D378A-5FCB-42F7-880F-2ACEB55B5570"
+    },
+    {
+      "class": "artboard",
+      "id": "87963086-6EA2-41F0-BE4F-2AD0B5F4D6C3"
     }
   ],
   "name": "Mobile-v3",

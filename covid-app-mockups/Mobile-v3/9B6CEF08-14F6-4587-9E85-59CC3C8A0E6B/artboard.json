@@ -154,8 +154,8 @@
       "id": "C21C05DD-2BF5-4C6F-9B67-3D4FF946BDBD"
     },
     {
-      "class": "group",
-      "id": "DEC0F702-F9C2-48D9-B6BA-0FE97EAFCA84"
+      "class": "bitmap",
+      "id": "4B1B9522-838B-4EC2-AAD1-D8AF9882C2DD"
     },
     {
       "class": "shapePath",
@@ -208,10 +208,6 @@
     {
       "class": "text",
       "id": "131E191A-42CE-4DEC-AF34-C8524BD7B567"
-    },
-    {
-      "class": "oval",
-      "id": "FDE6264C-EC92-43DA-81B6-33679BD00902"
     }
   ],
   "name": "Summary",
