@@ -9,18 +9,18 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.984313725490196,
-            "green": 0.6274509803921569,
-            "red": 0.3098039215686275,
-            "swatchID": "4A2A3611-D1B8-4A22-94E3-4132629B4D6F"
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "GothamBook",
-              "size": 15
+              "size": 13
             }
           },
+          "kerning": -0.7,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
@@ -58,7 +58,7 @@
     "x": 171,
     "y": 763.8414239482199
   },
-  "glyphBounds": "{{8, 7}, {15, 9}}",
+  "glyphBounds": "{{10, 8}, {12, 8}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -124,18 +124,18 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.984313725490196,
-          "green": 0.6274509803921569,
-          "red": 0.3098039215686275,
-          "swatchID": "4A2A3611-D1B8-4A22-94E3-4132629B4D6F"
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "GothamBook",
-            "size": 15
+            "size": 13
           }
         },
+        "kerning": -0.7,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,

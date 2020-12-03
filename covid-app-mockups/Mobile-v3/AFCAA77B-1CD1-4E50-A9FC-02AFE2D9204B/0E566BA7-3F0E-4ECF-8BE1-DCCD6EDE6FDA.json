@@ -17,9 +17,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "GothamBook",
-              "size": 15
+              "size": 13
             }
           },
+          "kerning": -0.7,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
@@ -57,7 +58,7 @@
     "x": 34,
     "y": 300.8467895740623
   },
-  "glyphBounds": "{{3, 4}, {38, 12}}",
+  "glyphBounds": "{{7, 5}, {30, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -131,9 +132,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "GothamBook",
-            "size": 15
+            "size": 13
           }
         },
+        "kerning": -0.7,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,

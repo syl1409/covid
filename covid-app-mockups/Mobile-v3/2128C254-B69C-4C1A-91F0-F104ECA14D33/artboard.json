@@ -30,7 +30,7 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -114,8 +114,8 @@
       "id": "82143A10-DF60-41C4-B626-F51F0FA735E5"
     },
     {
-      "class": "group",
-      "id": "8416D5D5-AE85-4B4B-ADFA-AA066B77FDA2"
+      "class": "bitmap",
+      "id": "D1F7EC8B-BF4D-450D-B4BA-2E40882E8B38"
     }
   ],
   "name": "Result Copy",

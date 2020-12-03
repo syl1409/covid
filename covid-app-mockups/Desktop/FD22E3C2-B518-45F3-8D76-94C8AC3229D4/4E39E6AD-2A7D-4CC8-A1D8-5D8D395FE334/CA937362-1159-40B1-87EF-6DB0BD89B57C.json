@@ -9,24 +9,24 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2060971467391304,
-            "green": 0.2060971467391304,
-            "red": 0.2060971467391304
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "GothamBook",
-              "size": 14
+              "size": 13
             }
           },
-          "kerning": -0.3733333333333334,
+          "kerning": -0.7,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 21,
-            "minimumLineHeight": 21
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
           },
           "textStyleVerticalAlignmentKey": 1
         },
@@ -58,7 +58,7 @@
     "x": 376,
     "y": 228
   },
-  "glyphBounds": "{{0, 4}, {703, 560}}",
+  "glyphBounds": "{{6, 5}, {693, 433}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -124,28 +124,28 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2060971467391304,
-          "green": 0.2060971467391304,
-          "red": 0.2060971467391304
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "GothamBook",
-            "size": 14
+            "size": 13
           }
         },
-        "kerning": -0.3733333333333334,
+        "kerning": -0.7,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 21,
-          "minimumLineHeight": 21
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
         },
         "textStyleVerticalAlignmentKey": 1
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },

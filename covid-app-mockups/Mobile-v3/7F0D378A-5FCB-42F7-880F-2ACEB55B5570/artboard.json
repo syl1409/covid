@@ -80,11 +80,11 @@
     },
     {
       "class": "group",
-      "id": "A4CF0D5A-60FF-492F-81CC-C4A193148123"
+      "id": "647EF5EF-B120-454C-B627-ECFD27399A77"
     },
     {
-      "class": "group",
-      "id": "647EF5EF-B120-454C-B627-ECFD27399A77"
+      "class": "bitmap",
+      "id": "977229E7-358F-4FD3-9A98-7F6C4914F085"
     }
   ],
   "name": "home-admin",

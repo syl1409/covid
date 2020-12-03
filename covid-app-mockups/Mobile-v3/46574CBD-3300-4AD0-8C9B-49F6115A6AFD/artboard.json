@@ -30,7 +30,7 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {

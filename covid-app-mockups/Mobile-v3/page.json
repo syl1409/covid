@@ -40,10 +40,6 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "2CC4CABB-B23C-4627-96F1-E7115A7842A1"
-    },
-    {
       "class": "artboard",
       "id": "AB64E4EC-8CE9-44B2-AB2A-9804E8A9D60F"
     },
@@ -114,6 +110,14 @@
     {
       "class": "artboard",
       "id": "87963086-6EA2-41F0-BE4F-2AD0B5F4D6C3"
+    },
+    {
+      "class": "artboard",
+      "id": "FAA7F299-39AA-4585-99CC-175D5F9BA16C"
+    },
+    {
+      "class": "artboard",
+      "id": "2A03635C-9FB7-42F5-80D3-79F61BA28E20"
     }
   ],
   "name": "Mobile-v3",

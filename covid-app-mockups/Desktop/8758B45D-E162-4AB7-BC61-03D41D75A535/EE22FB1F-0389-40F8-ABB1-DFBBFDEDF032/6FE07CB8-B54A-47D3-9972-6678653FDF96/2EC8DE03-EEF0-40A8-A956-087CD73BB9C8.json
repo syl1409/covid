@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 7,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "QR code"
+    "string": "Fill form"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 56,
-    "x": 623,
+    "width": 50,
+    "x": 627,
     "y": 46
   },
-  "glyphBounds": "{{0, 2}, {53, 11}}",
+  "glyphBounds": "{{1, 2}, {48, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "QR code",
+  "name": "Fill form",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

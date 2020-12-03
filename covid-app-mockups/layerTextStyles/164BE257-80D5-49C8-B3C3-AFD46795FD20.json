@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "ACDBC085-93DC-4C2A-800C-BCDA16D0F66F",
+    "do_objectID": "22843BF6-DC7F-458D-A85E-E3B782F1D4ED",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -60,9 +60,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "GothamBook",
-            "size": 15
+            "size": 13
           }
         },
+        "kerning": -0.7,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
