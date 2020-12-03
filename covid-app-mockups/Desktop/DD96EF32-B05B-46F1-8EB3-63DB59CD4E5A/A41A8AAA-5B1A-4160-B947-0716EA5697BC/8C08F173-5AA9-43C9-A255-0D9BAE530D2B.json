@@ -16,29 +16,30 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Bold",
-              "size": 16
+              "name": "GothamBlack",
+              "size": 27
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 18,
-            "minimumLineHeight": 18
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30,
+            "paragraphSpacing": 0.1
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 17,
+        "length": 1,
         "location": 0
       }
     ],
-    "string": "Lion Login access"
+    "string": "X"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6E660645-4792-475F-BC68-4ECE0F2088E8",
+  "do_objectID": "8C08F173-5AA9-43C9-A255-0D9BAE530D2B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 265,
-    "x": 594,
-    "y": 685
+    "height": 30,
+    "width": 20,
+    "x": 750,
+    "y": 28
   },
-  "glyphBounds": "{{61, 0}, {144, 15}}",
+  "glyphBounds": "{{0, 6}, {20, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Lion Login access",
+  "name": "X",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -106,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2F8A4A16-628A-48E0-97C8-B8C3DF49493A",
+    "do_objectID": "F1C2CF1A-81B2-42AD-9622-D2A4F5FA09B6",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -129,16 +130,17 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Bold",
-            "size": 16
+            "name": "GothamBlack",
+            "size": 27
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 18,
-          "minimumLineHeight": 18
+          "maximumLineHeight": 30,
+          "minimumLineHeight": 30,
+          "paragraphSpacing": 0.1
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -146,5 +148,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

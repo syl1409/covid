@@ -93,26 +93,44 @@
   "documentState": {
     "_class": "documentState",
     "cloudShare": {
-      "createdAt": "2020-12-03T17:08:18.470Z",
+      "createdAt": "2020-12-03T15:09:34.416Z",
       "currentVersion": {
-        "createdAt": "2020-12-03T17:08:18.470Z",
+        "createdAt": "2020-12-03T17:08:12.000Z",
         "id": "5455b87f-7849-4ade-bc07-87457d6582b0",
-        "updatedAt": "2020-12-03T17:08:18.470Z"
+        "updatedAt": "2020-12-03T17:08:12.000Z"
       },
       "id": "149253c5-5ded-482c-a84e-c843197571df",
-      "isPrivate": 1,
-      "libraryEnabled": 0,
+      "isPrivate": 0,
+      "libraryEnabled": 1,
       "name": "covid-app-mockups",
       "owner": {
         "__typename": "PublicUser",
-        "createdAt": "2020-12-03T17:08:10.635Z",
+        "createdAt": "2020-12-03T18:15:19.665Z",
         "id": "6f827410-bee2-4672-bfad-3f65fc0d4779",
-        "updatedAt": "2020-12-03T17:08:10.635Z"
+        "updatedAt": "2020-12-03T18:15:19.665Z"
+      },
+      "previewThumbnails": [
+        {
+          "createdAt": "2020-12-03T18:15:19.665Z",
+          "height": 443,
+          "id": "ea831d79-c182-43aa-b7d2-e560ee8ff509",
+          "size": 0,
+          "updatedAt": "2020-12-03T18:15:19.665Z",
+          "url": "https://resources-live.sketch.cloud/files/673c6d81-0949-4231-a207-726c590d3d1d.m.png?Expires=1607043600&Signature=iC3wvY1xhVux9PaviUyzQ47ydnj3IoUPh12FuUwlVq5Gy0VVPk5ZYINMPLLyvw0-qQUlrU7OTsPw7I9vdY6JVvE4bckY4xC6DV8rV9hNMAteCt9NI-kgXoEUXSJOwkvdpNhC4HCIyWVUSyjasuCHIdA3xpoFXLKF2lDhIrqgmVI_&Key-Pair-Id=APKAJOITMW3RWOLNNPYA",
+          "width": 250
+        }
+      ],
+      "project": {
+        "createdAt": "2020-12-03T18:15:19.665Z",
+        "id": "d07a5267-633b-49aa-84c8-0badb7e07b75",
+        "name": "Spots",
+        "shortId": "yg7bq",
+        "updatedAt": "2020-12-03T18:15:19.665Z"
       },
       "publicUrl": "https://sketch.cloud/s/149253c5-5ded-482c-a84e-c843197571df",
       "shortId": "149253c5-5ded-482c-a84e-c843197571df",
-      "updatedAt": "2020-12-03T17:08:18.470Z",
-      "viewerCanUpdate": 0
+      "updatedAt": "2020-12-03T17:08:43.325Z",
+      "viewerCanUpdate": 1
     }
   },
   "fontReferences": [
